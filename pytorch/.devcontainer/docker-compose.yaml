@@ -1,0 +1,36 @@
+version: '2.2'
+
+services:
+  pytorch:
+    build:
+      context: . # donde esta el dockerfile
+      dockerfile: Dockerfile
+    container_name: mi-pytorch
+    tty: true # -it interactively
+    ipc: host
+     #image: mysql:5.7
+    volumes:
+      - ../app:/app
+    
+     #restart: always
+    # ports:
+    #   - 8787:8787
+    # environment:
+    #   DISABLE_AUTH: true 
+    #   ROOT: true
+    #   PASSWORD: 123      
+    #GPU
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]  
+  #  node:
+  #   container_name: NodeForMysql
+  #   build: .
+volumes:
+  app: 
+    external: true
+  
