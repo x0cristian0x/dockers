@@ -1,0 +1,62 @@
+version: '2.2'
+
+services:
+
+#psql -U postgres --password
+  postgres:
+    hostname: localhost
+    image: postgres:bookworm
+    container_name: mi-postgres
+    tty: true 
+    restart: always
+    volumes:
+      - ./app:/var/lib/postgresql
+    ports:
+      - 5432:5432
+    environment:
+      DATABASE_HOST: 127.0.0.1
+      POSTGRES_PASSWORD: 123
+      POSTGRES_USER: 123
+      POSTGRES_DB: mi-db
+    # networks:
+    #   - mi-red
+
+  pgadmin:
+    image: dpage/pgadmin4:7.6
+    environment:
+      PGADMIN_DEFAULT_EMAIL: 123@123.com
+      PGADMIN_DEFAULT_PASSWORD: 123
+    ports:
+      - 80:80
+    depends_on:
+      - postgres
+  
+  # dbeaver:
+  #   image: dbeaver/cloudbeaver:23.1.5
+  #   container_name: mi-dbeaver
+  #   volumes:
+  #     - ./dbeaver:/var/cloudbeaver/workspace
+  #   ports:
+  #     - 8978:8978
+  #   depends_on:
+  #     - postgres
+
+  # dbeaver:
+  #   image: dbeaver/cloudbeaver:23.1.5
+  #   container_name: mi-dbeaver
+  #   volumes:
+  #     - ./dbeaver:/var/cloudbeaver/workspace
+  #   restart: always
+  #   ports:
+  #     - 8978:8978
+  #   networks:
+  #     - mi-red
+
+# networks:
+#   mi-red:
+#       driver: bridge
+  
+volumes:
+  app: 
+    external: true
+  

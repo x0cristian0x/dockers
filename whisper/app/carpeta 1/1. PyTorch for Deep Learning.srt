@@ -1,0 +1,196 @@
+1
+00:00:00,000 --> 00:00:04,000
+Machine learning and data science are already the hottest fields in the world,
+
+2
+00:00:04,000 --> 00:00:06,000
+and it's time to turn it up a notch.
+
+3
+00:00:06,000 --> 00:00:11,000
+Welcome to the hottest place to learn PyTorch and become a master of deep learning.
+
+4
+00:00:11,000 --> 00:00:15,000
+If you don't already know what PyTorch is, here's the deal.
+
+5
+00:00:15,000 --> 00:00:19,000
+PyTorch is a machine learning framework written in Python code.
+
+6
+00:00:19,000 --> 00:00:25,000
+It enables you to craft state-of-the-art deep learning algorithms like neural networks
+
+7
+00:00:25,000 --> 00:00:29,000
+powering much of today's artificial intelligence applications.
+
+8
+00:00:29,000 --> 00:00:31,000
+Sounds hot, right?
+
+9
+00:00:31,000 --> 00:00:33,000
+That's because PyTorch is on fire right now.
+
+10
+00:00:33,000 --> 00:00:36,000
+And I don't just mean the name or the logo.
+
+11
+00:00:36,000 --> 00:00:43,000
+It's used by leading tech companies like Tesla to build the computer vision systems for their self-driving cars,
+
+12
+00:00:43,000 --> 00:00:48,000
+Meta to power the curation and understanding systems for their content timelines,
+
+13
+00:00:48,000 --> 00:00:53,000
+Apple to create computationally enhanced photography,
+
+14
+00:00:53,000 --> 00:00:57,000
+and even automated weed-killing tractors.
+
+15
+00:00:57,000 --> 00:01:04,000
+Plus, much of the latest machine learning research is done and published using PyTorch code.
+
+16
+00:01:04,000 --> 00:01:10,000
+So knowing how to write and read PyTorch code means you'll be at the cutting edge of the field.
+
+17
+00:01:10,000 --> 00:01:12,000
+You know the best way to learn is by doing right?
+
+18
+00:01:12,000 --> 00:01:16,000
+Well, consider this course a PyTorch momentum builder.
+
+19
+00:01:16,000 --> 00:01:22,000
+Side by side, line by line, we'll be writing PyTorch code together apprenticeship style,
+
+20
+00:01:22,000 --> 00:01:29,000
+helping you learn the PyTorch skills you'll use every day as a data scientist or a machine learning engineer.
+
+21
+00:01:29,000 --> 00:01:31,000
+We'll start with the bare-bone fundamentals.
+
+22
+00:01:31,000 --> 00:01:35,000
+So even if you're new to machine learning, you'll be caught up to speed.
+
+23
+00:01:35,000 --> 00:01:40,000
+Then we'll explore more advanced areas including PyTorch workflows,
+
+24
+00:01:40,000 --> 00:01:47,000
+PyTorch neural network classification, computer vision, custom data sets, experiment tracking, model deployment,
+
+25
+00:01:47,000 --> 00:01:50,000
+and my personal favorite, transfer learning.
+
+26
+00:01:50,000 --> 00:01:58,000
+A powerful technique for taking what one machine learning model has learned on another problem and applying it to your own.
+
+27
+00:01:58,000 --> 00:02:04,000
+Along the way, you'll build three milestone projects surrounding an overarching project called Food Vision,
+
+28
+00:02:04,000 --> 00:02:08,000
+a neural network computer vision model to classify images of food.
+
+29
+00:02:08,000 --> 00:02:12,000
+These milestone projects will help you practice using PyTorch
+
+30
+00:02:12,000 --> 00:02:15,000
+whilst covering important machine learning concepts
+
+31
+00:02:15,000 --> 00:02:20,000
+and create a portfolio you can show to employers and say,
+
+32
+00:02:20,000 --> 00:02:21,000
+here's what I've done.
+
+33
+00:02:21,000 --> 00:02:25,000
+By the end of this course, you'll have a vast amount of hands-on experience with PyTorch
+
+34
+00:02:25,000 --> 00:02:29,000
+and will be comfortable interacting with public PyTorch projects,
+
+35
+00:02:29,000 --> 00:02:35,000
+building your own PyTorch projects and accelerating your career in the wonderful world of machine learning.
+
+36
+00:02:35,000 --> 00:02:38,000
+And silly me, I almost forgot to introduce myself.
+
+37
+00:02:38,000 --> 00:02:41,000
+I'm Daniel Burke, your PyTorch instructor.
+
+38
+00:02:41,000 --> 00:02:48,000
+I'm a self-taught machine learning engineer with experience at one of Australia's fastest growing artificial intelligence companies.
+
+39
+00:02:48,000 --> 00:02:54,000
+And now I teach the latest in-demand machine learning skills to thousands of students across the globe.
+
+40
+00:02:54,000 --> 00:02:58,000
+In this course, we're going to learn to master PyTorch together.
+
+41
+00:02:58,000 --> 00:03:04,000
+I want you to be able to think and work through machine learning problems like a machine learning engineer does.
+
+42
+00:03:04,000 --> 00:03:08,000
+So when it comes time to apply your new skills as a machine learning engineer,
+
+43
+00:03:08,000 --> 00:03:12,000
+you've already had plenty of practice because that's the goal, right?
+
+44
+00:03:12,000 --> 00:03:16,000
+If you want to learn the skills required for a career in machine learning,
+
+45
+00:03:16,000 --> 00:03:21,000
+if you want to learn the most popular machine learning framework used by companies like Tesla and Apple,
+
+46
+00:03:21,000 --> 00:03:25,000
+if you like to learn by doing, if you'd like to master PyTorch,
+
+47
+00:03:25,000 --> 00:03:27,000
+you've come to the right place.
+
+48
+00:03:27,000 --> 00:03:29,000
+I'll see you inside.
+
+49
+00:03:29,000 --> 00:03:31,000
+Let's code.
+
