@@ -1,0 +1,16 @@
+{
+    "name": "flask",
+    "dockerComposeFile": "docker-compose.yaml",
+    "service": "flask",
+    "workspaceFolder": "/srv",
+    "customizations": {
+        "vscode": {
+          "extensions": ["ms-toolsai.jupyter", "ms-python.python"]
+        }
+      }
+    // "extensions": []
+    // "settings": {
+    //     "terminal.integrated.shell.linux": "/bin/bash"
+    // },
+    
+}
