@@ -13,6 +13,7 @@ services:
       - ../app:/app
     ports:
        - 5037:5037
+       - 8080:8080
     # environment:
     #   DISABLE_AUTH: true 
     #   ROOT: true

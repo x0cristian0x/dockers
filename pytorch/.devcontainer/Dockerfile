@@ -13,3 +13,4 @@ RUN conda install conda-forge::scikit-learn
 RUN conda install conda-forge::pandas
 RUN conda install conda-forge::torchmetrics 
 RUN conda install conda-forge::mlxtend
+RUN conda install conda-forge::torchinfo 

@@ -6,7 +6,7 @@ final ThemeData appThemeData = ThemeData(
   primaryColor: Colors.purple,
   fontFamily: 'Georgia',
   textTheme: const TextTheme(
-    headline1: TextStyle(
+    displayLarge: TextStyle(
         fontSize: 12.0, fontWeight: FontWeight.bold, color: Colors.blue),
   ),
   appBarTheme:
