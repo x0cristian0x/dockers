@@ -1,0 +1,39 @@
+version: '2.2'
+
+#docker run -d -p 8888:8888 devcontainer-spark start-notebook.sh --NotebookApp.token=''
+services:
+  spark:
+    build:
+      context: . # donde esta el dockerfile
+      dockerfile: Dockerfile
+    container_name: mi-spark
+    tty: true # -it interactively
+    stdin_open: true # sh
+    # ipc: host
+     #image: mysql:5.7
+    volumes:
+      - ./app:/app
+    
+     #restart: always
+    ports:
+      - 8888:8888
+      - 4040:4040
+    environment:
+      NotebookApp.token: ''
+    entrypoint: start-notebook.sh --NotebookApp.token=''
+
+    #GPU
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]  
+  #  node:
+  #   container_name: NodeForMysql
+  #   build: .
+volumes:
+  app: 
+    external: true
+  

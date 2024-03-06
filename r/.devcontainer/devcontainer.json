@@ -1,0 +1,16 @@
+{
+    "name": "r",
+    "dockerComposeFile": "docker-compose.yaml",
+    "service": "r",
+    "workspaceFolder": "/app",
+    "customizations": {
+        "vscode": {
+          "extensions": ["REditorSupport.r"]
+        }
+      }
+    // "extensions": []
+    // "settings": {
+    //     "terminal.integrated.shell.linux": "/bin/bash"
+    // },
+    
+}

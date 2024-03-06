@@ -1,0 +1,142 @@
+[{
+		"weeks": 0,
+		"medianDA": 3.3,
+		"medianDC": 49.9,
+		"sex": "Hombre"
+	},{
+		"weeks": 1,
+		"medianDA": 3.5,
+		"medianDC": 51.1,
+		"sex": "Hombre"
+	},{
+		"weeks": 2,
+		"medianDA": 3.8,
+		"medianDC": 52.3,
+		"sex": "Hombre"
+	},{
+		"weeks": 3,
+		"medianDA": 4.1,
+		"medianDC": 53.4,
+		"sex": "Hombre"
+	},{
+		"weeks": 4,
+		"medianDA": 4.4,
+		"medianDC": 54.4,
+		"sex": "Hombre"
+	},{
+		"weeks": 5,
+		"medianDA": 4.7,
+		"medianDC": 55.3,
+		"sex": "Hombre"
+	},{
+		"weeks": 6,
+		"medianDA": 4.9,
+		"medianDC": 56.2,
+		"sex": "Hombre"
+	},{
+		"weeks": 7,
+		"medianDA": 5.2,
+		"medianDC": 57.1,
+		"sex": "Hombre"
+	},{
+		"weeks": 8,
+		"medianDA": 5.4,
+		"medianDC": 57.9,
+		"sex": "Hombre"
+	},{
+		"weeks": 9,
+		"medianDA": 5.6,
+		"medianDC": 58.7,
+		"sex": "Hombre"
+	},{
+		"weeks": 10,
+		"medianDA": 5.8,
+		"medianDC": 59.4,
+		"sex": "Hombre"
+	},{
+		"weeks": 11,
+		"medianDA": 6.0,
+		"medianDC": 60.1,
+		"sex": "Hombre"
+	},{
+		"weeks": 12,
+		"medianDA": 6.2,
+		"medianDC": 60.8,
+		"sex": "Hombre"
+	},{
+		"weeks": 13,
+		"medianDA": 6.4,
+		"medianDC": 61.4,
+		"sex": "Hombre"
+	},{
+		"weeks": 0,
+		"medianDA": 3.2,
+		"medianDC": 49.1,
+		"sex": "Mujer"
+	},{
+		"weeks": 1,
+		"medianDA": 3.3,
+		"medianDC": 50.3,
+		"sex": "Mujer"
+	},{
+		"weeks": 2,
+		"medianDA": 3.6,
+		"medianDC": 51.5,
+		"sex": "Mujer"
+	},{
+		"weeks": 3,
+		"medianDA": 3.8,
+		"medianDC": 52.5,
+		"sex": "Mujer"
+	},{
+		"weeks": 4,
+		"medianDA": 4.1,
+		"medianDC": 53.4,
+		"sex": "Mujer"
+	},{
+		"weeks": 5,
+		"medianDA": 4.3,
+		"medianDC": 54.2,
+		"sex": "Mujer"
+	},{
+		"weeks": 6,
+		"medianDA": 4.6,
+		"medianDC": 55.1,
+		"sex": "Mujer"
+	},{
+		"weeks": 7,
+		"medianDA": 4.8,
+		"medianDC": 55.8,
+		"sex": "Mujer"
+	},{
+		"weeks": 8,
+		"medianDA": 5.0,
+		"medianDC": 56.6,
+		"sex": "Mujer"
+	},{
+		"weeks": 9,
+		"medianDA": 5.2,
+		"medianDC": 57.3,
+		"sex": "Mujer"
+	},{
+		"weeks": 10,
+		"medianDA": 5.4,
+		"medianDC": 57.9,
+		"sex": "Mujer"
+	},{
+		"weeks": 11,
+		"medianDA": 5.5,
+		"medianDC": 58.6,
+		"sex": "Mujer"
+	},{
+		"weeks": 12,
+		"medianDA": 5.7,
+		"medianDC": 59.2,
+		"sex": "Mujer"
+	},{
+		"weeks": 13,
+		"medianDA": 5.8,
+		"medianDC": 59.8,
+		"sex": "Mujer"
+	}
+]

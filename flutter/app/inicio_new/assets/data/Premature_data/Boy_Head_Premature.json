@@ -1,0 +1,254 @@
+[
+	{
+	  "weeks": 23,
+	  "sd_iz_2": 17.88,
+	  "sd_iz_1": 19.41,
+	  "median": 20.88,
+	  "sd_de_1": 22.29,
+	  "sd_de_2": 23.66,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 24,
+	  "sd_iz_2": 18.96,
+	  "sd_iz_1": 20.52,
+	  "median": 22.02,
+	  "sd_de_1": 23.47,
+	  "sd_de_2": 24.88,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 25,
+	  "sd_iz_2": 19.98,
+	  "sd_iz_1": 21.57,
+	  "median": 23.09,
+	  "sd_de_1": 24.57,
+	  "sd_de_2": 26.01,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 26,
+	  "sd_iz_2": 21.02,
+	  "sd_iz_1": 22.62,
+	  "median": 24.17,
+	  "sd_de_1": 25.67,
+	  "sd_de_2": 27.13,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 27,
+	  "sd_iz_2": 22.07,
+	  "sd_iz_1": 23.68,
+	  "median": 25.25,
+	  "sd_de_1": 26.77,
+	  "sd_de_2": 28.24,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 28,
+	  "sd_iz_2": 23.06,
+	  "sd_iz_1": 24.72,
+	  "median": 26.33,
+	  "sd_de_1": 27.88,
+	  "sd_de_2": 29.4,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 29,
+	  "sd_iz_2": 23.95,
+	  "sd_iz_1": 25.6,
+	  "median": 27.2,
+	  "sd_de_1": 28.76,
+	  "sd_de_2": 30.27,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 30,
+	  "sd_iz_2": 24.83,
+	  "sd_iz_1": 26.48,
+	  "median": 28.07,
+	  "sd_de_1": 29.62,
+	  "sd_de_2": 31.14,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 31,
+	  "sd_iz_2": 25.67,
+	  "sd_iz_1": 27.33,
+	  "median": 28.95,
+	  "sd_de_1": 30.52,
+	  "sd_de_2": 32.05,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 32,
+	  "sd_iz_2": 26.57,
+	  "sd_iz_1": 28.22,
+	  "median": 29.82,
+	  "sd_de_1": 31.38,
+	  "sd_de_2": 32.9,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 33,
+	  "sd_iz_2": 27.3,
+	  "sd_iz_1": 28.96,
+	  "median": 30.57,
+	  "sd_de_1": 32.14,
+	  "sd_de_2": 33.67,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 34,
+	  "sd_iz_2": 28.04,
+	  "sd_iz_1": 29.7,
+	  "median": 31.32,
+	  "sd_de_1": 32.89,
+	  "sd_de_2": 34.43,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 35,
+	  "sd_iz_2": 28.77,
+	  "sd_iz_1": 30.44,
+	  "median": 32.06,
+	  "sd_de_1": 33.65,
+	  "sd_de_2": 35.2,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 36,
+	  "sd_iz_2": 29.51,
+	  "sd_iz_1": 31.18,
+	  "median": 32.81,
+	  "sd_de_1": 34.4,
+	  "sd_de_2": 35.95,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 37,
+	  "sd_iz_2": 30.06,
+	  "sd_iz_1": 31.76,
+	  "median": 33.42,
+	  "sd_de_1": 35.04,
+	  "sd_de_2": 36.62,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 38,
+	  "sd_iz_2": 30.61,
+	  "sd_iz_1": 32.34,
+	  "median": 34.03,
+	  "sd_de_1": 35.68,
+	  "sd_de_2": 37.29,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 39,
+	  "sd_iz_2": 31.16,
+	  "sd_iz_1": 32.92,
+	  "median": 34.64,
+	  "sd_de_1": 36.32,
+	  "sd_de_2": 37.96,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 40,
+	  "sd_iz_2": 31.76,
+	  "sd_iz_1": 33.52,
+	  "median": 35.23,
+	  "sd_de_1": 36.9,
+	  "sd_de_2": 38.54,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 41,
+	  "sd_iz_2": 32.39,
+	  "sd_iz_1": 34.14,
+	  "median": 35.84,
+	  "sd_de_1": 37.51,
+	  "sd_de_2": 39.14,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 42,
+	  "sd_iz_2": 33.06,
+	  "sd_iz_1": 34.76,
+	  "median": 36.42,
+	  "sd_de_1": 38.04,
+	  "sd_de_2": 39.63,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 43,
+	  "sd_iz_2": 33.69,
+	  "sd_iz_1": 35.38,
+	  "median": 37.02,
+	  "sd_de_1": 38.63,
+	  "sd_de_2": 40.21,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 44,
+	  "sd_iz_2": 34.27,
+	  "sd_iz_1": 35.94,
+	  "median": 37.58,
+	  "sd_de_1": 39.18,
+	  "sd_de_2": 40.74,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 45,
+	  "sd_iz_2": 34.84,
+	  "sd_iz_1": 36.45,
+	  "median": 38.03,
+	  "sd_de_1": 39.57,
+	  "sd_de_2": 41.08,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 46,
+	  "sd_iz_2": 35.31,
+	  "sd_iz_1": 36.9,
+	  "median": 38.45,
+	  "sd_de_1": 39.97,
+	  "sd_de_2": 41.47,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 47,
+	  "sd_iz_2": 35.74,
+	  "sd_iz_1": 37.3,
+	  "median": 38.83,
+	  "sd_de_1": 40.33,
+	  "sd_de_2": 41.81,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 48,
+	  "sd_iz_2": 36.07,
+	  "sd_iz_1": 37.64,
+	  "median": 39.19,
+	  "sd_de_1": 40.7,
+	  "sd_de_2": 42.19,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 49,
+	  "sd_iz_2": 36.4,
+	  "sd_iz_1": 37.99,
+	  "median": 39.55,
+	  "sd_de_1": 41.07,
+	  "sd_de_2": 42.57,
+	  "sex": "Hombre"
+	},
+	{
+	  "weeks": 50,
+	  "sd_iz_2": 36.72,
+	  "sd_iz_1": 38.28,
+	  "median": 39.8,
+	  "sd_de_1": 41.3,
+	  "sd_de_2": 42.78,
+	  "sex": "Hombre"
+	}
+   ]

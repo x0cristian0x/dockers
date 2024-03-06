@@ -1,0 +1,16 @@
+{
+    "name": "tensorflow",
+    "dockerComposeFile": "docker-compose.yaml",
+    "service": "tensorflow",
+    "workspaceFolder": "/app",
+    "customizations": {
+        "vscode": {
+          "extensions": ["ms-toolsai.jupyter", "ms-python.python"]
+        }
+      }
+    // "extensions": []
+    // "settings": {
+    //     "terminal.integrated.shell.linux": "/bin/bash"
+    // },
+    
+}

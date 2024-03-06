@@ -1,0 +1,38 @@
+version: '2.2'
+
+services:
+  flutter:
+    build:
+      context: . # donde esta el dockerfile
+      dockerfile: Dockerfile
+    container_name: mi-flutter
+    tty: true # -it interactively
+    ipc: host
+     #image: mysql:5.7
+    volumes:
+      - ../app:/app
+    # ports:
+    #    - 5037:5037
+    #    - 8080:8080
+    network_mode: host # Dar internet
+    # environment:
+    #   DISABLE_AUTH: true 
+    #   ROOT: true
+    #   PASSWORD: 123      
+    #GPU
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]  
+  #  node:
+  #   container_name: NodeForMysql
+  #   build: .
+volumes:
+  app: 
+    external: true
+  key: 
+    external: true
+  
