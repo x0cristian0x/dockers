@@ -14,7 +14,11 @@ import 'package:inicio_1/app/ui/pages/Velocidad/Velocidad_Radio.dart';
 import 'Velocidad_DT_Head.dart';
 
 class VelocidadPage extends GetView<VelocidadController> {
+<<<<<<< HEAD
   const VelocidadPage({Key? key}) : super(key: key);
+=======
+  const VelocidadPage({super.key});
+>>>>>>> rama_3
 
   @override
   Widget build(BuildContext context) {
@@ -128,7 +132,11 @@ class VelocidadPage extends GetView<VelocidadController> {
 class ButtonEnviar extends StatefulWidget {
   // ignore: prefer_typing_uninitialized_variables
   final update;
+<<<<<<< HEAD
   const ButtonEnviar({Key? key, required this.update}) : super(key: key);
+=======
+  const ButtonEnviar({super.key, required this.update});
+>>>>>>> rama_3
 
   @override
   State<ButtonEnviar> createState() => _ButtonEnviarState();

@@ -19,15 +19,23 @@ class GrafVelocidadLength extends StatelessWidget {
   final int rango;
 
   const GrafVelocidadLength(
+<<<<<<< HEAD
       {Key? key,
+=======
+      {super.key,
+>>>>>>> rama_3
       required this.valorX,
       required this.valorY,
       required this.titulo,
       required this.labelX,
       required this.labelY,
       required this.fileJsonData,
+<<<<<<< HEAD
       required this.rango})
       : super(key: key);
+=======
+      required this.rango});
+>>>>>>> rama_3
 
   @override
   Widget build(BuildContext context) {

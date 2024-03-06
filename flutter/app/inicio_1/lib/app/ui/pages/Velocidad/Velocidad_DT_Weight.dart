@@ -18,13 +18,21 @@ class VelocidadDTWeight extends StatelessWidget {
   final double valorActual;
 
   const VelocidadDTWeight(
+<<<<<<< HEAD
       {Key? key,
+=======
+      {super.key,
+>>>>>>> rama_3
       required this.fileJsonData,
       required this.rango,
       required this.edad,
       required this.valorViejo,
+<<<<<<< HEAD
       required this.valorActual})
       : super(key: key);
+=======
+      required this.valorActual});
+>>>>>>> rama_3
 
   @override
   Widget build(BuildContext context) {
@@ -144,7 +152,10 @@ class VelocidadDTWeight extends StatelessWidget {
   }
 
 // Leer Data FIN
+<<<<<<< HEAD
 
+=======
+>>>>>>> rama_3
 }
 
 class ProductDataGridSource extends DataGridSource {

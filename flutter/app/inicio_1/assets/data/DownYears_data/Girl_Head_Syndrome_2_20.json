@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [{
 		"years": 2.0,
 		"sd_iz_2": 42.8,
@@ -295,4 +296,303 @@
 		"sd_de_2": 55.6,
 		"sex": "Mujer"
 	}
+=======
+[{
+		"years": 2.0,
+		"sd_iz_2": 42.8,
+		"sd_iz_1": 44.1,
+		"median": 45.4,
+		"sd_de_1": 46.7,
+		"sd_de_2": 47.9,
+		"sex": "Mujer"
+	},{
+		"years": 2.5,
+		"sd_iz_2": 43.1,
+		"sd_iz_1": 44.4,
+		"median": 45.7,
+		"sd_de_1": 47.0,
+		"sd_de_2": 48.2,
+		"sex": "Mujer"
+	},{
+		"years": 3.0,
+		"sd_iz_2": 43.3,
+		"sd_iz_1": 44.6,
+		"median": 45.9,
+		"sd_de_1": 47.2,
+		"sd_de_2": 48.4,
+		"sex": "Mujer"
+	},{
+		"years": 3.5,
+		"sd_iz_2": 43.5,
+		"sd_iz_1": 44.8,
+		"median": 46.2,
+		"sd_de_1": 47.5,
+		"sd_de_2": 48.8,
+		"sex": "Mujer"
+	},{
+		"years": 4.0,
+		"sd_iz_2": 43.6,
+		"sd_iz_1": 45.0,
+		"median": 46.4,
+		"sd_de_1": 47.7,
+		"sd_de_2": 49.0,
+		"sex": "Mujer"
+	},{
+		"years": 4.5,
+		"sd_iz_2": 43.8,
+		"sd_iz_1": 45.3,
+		"median": 46.7,
+		"sd_de_1": 48.1,
+		"sd_de_2": 49.4,
+		"sex": "Mujer"
+	},{
+		"years": 5.0,
+		"sd_iz_2": 44.0,
+		"sd_iz_1": 45.5,
+		"median": 46.9,
+		"sd_de_1": 48.3,
+		"sd_de_2": 49.6,
+		"sex": "Mujer"
+	},{
+		"years": 5.5,
+		"sd_iz_2": 44.3,
+		"sd_iz_1": 45.8,
+		"median": 47.2,
+		"sd_de_1": 48.6,
+		"sd_de_2": 50.0,
+		"sex": "Mujer"
+	},{
+		"years": 6.0,
+		"sd_iz_2": 44.4,
+		"sd_iz_1": 45.9,
+		"median": 47.4,
+		"sd_de_1": 48.9,
+		"sd_de_2": 50.3,
+		"sex": "Mujer"
+	},{
+		"years": 6.5,
+		"sd_iz_2": 44.7,
+		"sd_iz_1": 46.2,
+		"median": 47.7,
+		"sd_de_1": 49.2,
+		"sd_de_2": 50.6,
+		"sex": "Mujer"
+	},{
+		"years": 7.0,
+		"sd_iz_2": 44.7,
+		"sd_iz_1": 46.3,
+		"median": 47.9,
+		"sd_de_1": 49.4,
+		"sd_de_2": 50.9,
+		"sex": "Mujer"
+	},{
+		"years": 7.5,
+		"sd_iz_2": 44.9,
+		"sd_iz_1": 46.5,
+		"median": 48.1,
+		"sd_de_1": 49.6,
+		"sd_de_2": 51.1,
+		"sex": "Mujer"
+	},{
+		"years": 8.0,
+		"sd_iz_2": 45.1,
+		"sd_iz_1": 46.8,
+		"median": 48.4,
+		"sd_de_1": 50.0,
+		"sd_de_2": 51.5,
+		"sex": "Mujer"
+	},{
+		"years": 8.5,
+		"sd_iz_2": 45.3,
+		"sd_iz_1": 47.0,
+		"median": 48.6,
+		"sd_de_1": 50.2,
+		"sd_de_2": 51.7,
+		"sex": "Mujer"
+	},{
+		"years": 9.0,
+		"sd_iz_2": 45.5,
+		"sd_iz_1": 47.2,
+		"median": 48.8,
+		"sd_de_1": 50.4,
+		"sd_de_2": 51.9,
+		"sex": "Mujer"
+	},{
+		"years": 9.5,
+		"sd_iz_2": 45.7,
+		"sd_iz_1": 47.4,
+		"median": 49.1,
+		"sd_de_1": 50.7,
+		"sd_de_2": 52.3,
+		"sex": "Mujer"
+	},{
+		"years": 10.0,
+		"sd_iz_2": 45.8,
+		"sd_iz_1": 47.6,
+		"median": 49.3,
+		"sd_de_1": 51.0,
+		"sd_de_2": 52.6,
+		"sex": "Mujer"
+	},{
+		"years": 10.5,
+		"sd_iz_2": 45.9,
+		"sd_iz_1": 47.7,
+		"median": 49.5,
+		"sd_de_1": 51.2,
+		"sd_de_2": 52.9,
+		"sex": "Mujer"
+	},{
+		"years": 11.0,
+		"sd_iz_2": 46.1,
+		"sd_iz_1": 47.9,
+		"median": 49.7,
+		"sd_de_1": 51.4,
+		"sd_de_2": 53.1,
+		"sex": "Mujer"
+	},{
+		"years": 11.5,
+		"sd_iz_2": 46.2,
+		"sd_iz_1": 48.1,
+		"median": 49.9,
+		"sd_de_1": 51.7,
+		"sd_de_2": 53.4,
+		"sex": "Mujer"
+	},{
+		"years": 12.0,
+		"sd_iz_2": 46.3,
+		"sd_iz_1": 48.2,
+		"median": 50.0,
+		"sd_de_1": 51.8,
+		"sd_de_2": 53.5,
+		"sex": "Mujer"
+	},{
+		"years": 12.5,
+		"sd_iz_2": 46.5,
+		"sd_iz_1": 48.4,
+		"median": 50.2,
+		"sd_de_1": 52.0,
+		"sd_de_2": 53.7,
+		"sex": "Mujer"
+	},{
+		"years": 13.0,
+		"sd_iz_2": 46.4,
+		"sd_iz_1": 48.4,
+		"median": 50.3,
+		"sd_de_1": 52.1,
+		"sd_de_2": 53.9,
+		"sex": "Mujer"
+	},{
+		"years": 13.5,
+		"sd_iz_2": 46.6,
+		"sd_iz_1": 48.6,
+		"median": 50.5,
+		"sd_de_1": 52.3,
+		"sd_de_2": 54.1,
+		"sex": "Mujer"
+	},{
+		"years": 14.0,
+		"sd_iz_2": 46.6,
+		"sd_iz_1": 48.6,
+		"median": 50.6,
+		"sd_de_1": 52.5,
+		"sd_de_2": 54.3,
+		"sex": "Mujer"
+	},{
+		"years": 14.5,
+		"sd_iz_2": 46.7,
+		"sd_iz_1": 48.7,
+		"median": 50.7,
+		"sd_de_1": 52.6,
+		"sd_de_2": 54.4,
+		"sex": "Mujer"
+	},{
+		"years": 15.0,
+		"sd_iz_2": 46.8,
+		"sd_iz_1": 48.8,
+		"median": 50.8,
+		"sd_de_1": 52.7,
+		"sd_de_2": 54.5,
+		"sex": "Mujer"
+	},{
+		"years": 15.5,
+		"sd_iz_2": 46.8,
+		"sd_iz_1": 48.9,
+		"median": 50.9,
+		"sd_de_1": 52.9,
+		"sd_de_2": 54.7,
+		"sex": "Mujer"
+	},{
+		"years": 16.0,
+		"sd_iz_2": 46.9,
+		"sd_iz_1": 49.0,
+		"median": 51.0,
+		"sd_de_1": 53.0,
+		"sd_de_2": 54.9,
+		"sex": "Mujer"
+	},{
+		"years": 16.5,
+		"sd_iz_2": 46.9,
+		"sd_iz_1": 49.0,
+		"median": 51.1,
+		"sd_de_1": 53.1,
+		"sd_de_2": 55.1,
+		"sex": "Mujer"
+	},{
+		"years": 17.0,
+		"sd_iz_2": 46.9,
+		"sd_iz_1": 49.0,
+		"median": 51.1,
+		"sd_de_1": 53.1,
+		"sd_de_2": 55.1,
+		"sex": "Mujer"
+	},{
+		"years": 17.5,
+		"sd_iz_2": 46.8,
+		"sd_iz_1": 49.1,
+		"median": 51.2,
+		"sd_de_1": 53.3,
+		"sd_de_2": 55.3,
+		"sex": "Mujer"
+	},{
+		"years": 18.0,
+		"sd_iz_2": 46.8,
+		"sd_iz_1": 49.1,
+		"median": 51.2,
+		"sd_de_1": 53.3,
+		"sd_de_2": 55.3,
+		"sex": "Mujer"
+	},{
+		"years": 18.5,
+		"sd_iz_2": 46.9,
+		"sd_iz_1": 49.2,
+		"median": 51.3,
+		"sd_de_1": 53.4,
+		"sd_de_2": 55.4,
+		"sex": "Mujer"
+	},{
+		"years": 19.0,
+		"sd_iz_2": 46.8,
+		"sd_iz_1": 49.1,
+		"median": 51.3,
+		"sd_de_1": 53.4,
+		"sd_de_2": 55.5,
+		"sex": "Mujer"
+	},{
+		"years": 19.5,
+		"sd_iz_2": 46.8,
+		"sd_iz_1": 49.1,
+		"median": 51.3,
+		"sd_de_1": 53.4,
+		"sd_de_2": 55.5,
+		"sex": "Mujer"
+	},{
+		"years": 20.0,
+		"sd_iz_2": 46.7,
+		"sd_iz_1": 49.1,
+		"median": 51.3,
+		"sd_de_1": 53.5,
+		"sd_de_2": 55.6,
+		"sex": "Mujer"
+	}
+>>>>>>> rama_3
 ]

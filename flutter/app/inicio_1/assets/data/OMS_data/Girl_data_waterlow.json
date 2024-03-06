@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [{
 		"months": 0,
 		"medianDA": 3.2,
@@ -604,4 +605,612 @@
 		"medianDC": 138.6,
 		"sex": "Mujer"
 	}
+=======
+[{
+		"months": 0,
+		"medianDA": 3.2,
+		"medianDC": 49.1,
+		"sex": "Mujer"
+	},{
+		"months": 1,
+		"medianDA": 4.2,
+		"medianDC": 53.7,
+		"sex": "Mujer"
+	},{
+		"months": 2,
+		"medianDA": 5.1,
+		"medianDC": 57.1,
+		"sex": "Mujer"
+	},{
+		"months": 3,
+		"medianDA": 5.8,
+		"medianDC": 59.8,
+		"sex": "Mujer"
+	},{
+		"months": 4,
+		"medianDA": 6.4,
+		"medianDC": 62.1,
+		"sex": "Mujer"
+	},{
+		"months": 5,
+		"medianDA": 6.9,
+		"medianDC": 64.0,
+		"sex": "Mujer"
+	},{
+		"months": 6,
+		"medianDA": 7.3,
+		"medianDC": 65.7,
+		"sex": "Mujer"
+	},{
+		"months": 7,
+		"medianDA": 7.6,
+		"medianDC": 67.3,
+		"sex": "Mujer"
+	},{
+		"months": 8,
+		"medianDA": 7.9,
+		"medianDC": 68.7,
+		"sex": "Mujer"
+	},{
+		"months": 9,
+		"medianDA": 8.2,
+		"medianDC": 70.1,
+		"sex": "Mujer"
+	},{
+		"months": 10,
+		"medianDA": 8.5,
+		"medianDC": 71.5,
+		"sex": "Mujer"
+	},{
+		"months": 11,
+		"medianDA": 8.7,
+		"medianDC": 72.8,
+		"sex": "Mujer"
+	},{
+		"months": 12,
+		"medianDA": 8.9,
+		"medianDC": 74.0,
+		"sex": "Mujer"
+	},{
+		"months": 13,
+		"medianDA": 9.2,
+		"medianDC": 75.2,
+		"sex": "Mujer"
+	},{
+		"months": 14,
+		"medianDA": 9.4,
+		"medianDC": 76.4,
+		"sex": "Mujer"
+	},{
+		"months": 15,
+		"medianDA": 9.6,
+		"medianDC": 77.5,
+		"sex": "Mujer"
+	},{
+		"months": 16,
+		"medianDA": 9.8,
+		"medianDC": 78.6,
+		"sex": "Mujer"
+	},{
+		"months": 17,
+		"medianDA": 10.0,
+		"medianDC": 79.7,
+		"sex": "Mujer"
+	},{
+		"months": 18,
+		"medianDA": 10.2,
+		"medianDC": 80.7,
+		"sex": "Mujer"
+	},{
+		"months": 19,
+		"medianDA": 10.4,
+		"medianDC": 81.7,
+		"sex": "Mujer"
+	},{
+		"months": 20,
+		"medianDA": 10.6,
+		"medianDC": 82.7,
+		"sex": "Mujer"
+	},{
+		"months": 21,
+		"medianDA": 10.9,
+		"medianDC": 83.7,
+		"sex": "Mujer"
+	},{
+		"months": 22,
+		"medianDA": 11.1,
+		"medianDC": 84.6,
+		"sex": "Mujer"
+	},{
+		"months": 23,
+		"medianDA": 11.3,
+		"medianDC": 85.5,
+		"sex": "Mujer"
+	},{
+		"months": 24,
+		"medianDA": 11.5,
+		"medianDC": 86.4,
+		"sex": "Mujer"
+	},{
+		"months": 25,
+		"medianDA": 11.7,
+		"medianDC": 86.6,
+		"sex": "Mujer"
+	},{
+		"months": 26,
+		"medianDA": 11.9,
+		"medianDC": 87.4,
+		"sex": "Mujer"
+	},{
+		"months": 27,
+		"medianDA": 12.1,
+		"medianDC": 88.3,
+		"sex": "Mujer"
+	},{
+		"months": 28,
+		"medianDA": 12.3,
+		"medianDC": 89.1,
+		"sex": "Mujer"
+	},{
+		"months": 29,
+		"medianDA": 12.5,
+		"medianDC": 89.9,
+		"sex": "Mujer"
+	},{
+		"months": 30,
+		"medianDA": 12.7,
+		"medianDC": 90.7,
+		"sex": "Mujer"
+	},{
+		"months": 31,
+		"medianDA": 12.9,
+		"medianDC": 91.4,
+		"sex": "Mujer"
+	},{
+		"months": 32,
+		"medianDA": 13.1,
+		"medianDC": 92.2,
+		"sex": "Mujer"
+	},{
+		"months": 33,
+		"medianDA": 13.3,
+		"medianDC": 92.9,
+		"sex": "Mujer"
+	},{
+		"months": 34,
+		"medianDA": 13.5,
+		"medianDC": 93.6,
+		"sex": "Mujer"
+	},{
+		"months": 35,
+		"medianDA": 13.7,
+		"medianDC": 94.4,
+		"sex": "Mujer"
+	},{
+		"months": 36,
+		"medianDA": 13.9,
+		"medianDC": 95.1,
+		"sex": "Mujer"
+	},{
+		"months": 37,
+		"medianDA": 14.0,
+		"medianDC": 95.7,
+		"sex": "Mujer"
+	},{
+		"months": 38,
+		"medianDA": 14.2,
+		"medianDC": 96.4,
+		"sex": "Mujer"
+	},{
+		"months": 39,
+		"medianDA": 14.4,
+		"medianDC": 97.1,
+		"sex": "Mujer"
+	},{
+		"months": 40,
+		"medianDA": 14.6,
+		"medianDC": 97.7,
+		"sex": "Mujer"
+	},{
+		"months": 41,
+		"medianDA": 14.8,
+		"medianDC": 98.4,
+		"sex": "Mujer"
+	},{
+		"months": 42,
+		"medianDA": 15.0,
+		"medianDC": 99.0,
+		"sex": "Mujer"
+	},{
+		"months": 43,
+		"medianDA": 15.2,
+		"medianDC": 99.7,
+		"sex": "Mujer"
+	},{
+		"months": 44,
+		"medianDA": 15.3,
+		"medianDC": 100.3,
+		"sex": "Mujer"
+	},{
+		"months": 45,
+		"medianDA": 15.5,
+		"medianDC": 100.9,
+		"sex": "Mujer"
+	},{
+		"months": 46,
+		"medianDA": 15.7,
+		"medianDC": 101.5,
+		"sex": "Mujer"
+	},{
+		"months": 47,
+		"medianDA": 15.9,
+		"medianDC": 102.1,
+		"sex": "Mujer"
+	},{
+		"months": 48,
+		"medianDA": 16.1,
+		"medianDC": 102.7,
+		"sex": "Mujer"
+	},{
+		"months": 49,
+		"medianDA": 16.3,
+		"medianDC": 103.3,
+		"sex": "Mujer"
+	},{
+		"months": 50,
+		"medianDA": 16.4,
+		"medianDC": 103.9,
+		"sex": "Mujer"
+	},{
+		"months": 51,
+		"medianDA": 16.6,
+		"medianDC": 104.5,
+		"sex": "Mujer"
+	},{
+		"months": 52,
+		"medianDA": 16.8,
+		"medianDC": 105.0,
+		"sex": "Mujer"
+	},{
+		"months": 53,
+		"medianDA": 17.0,
+		"medianDC": 105.6,
+		"sex": "Mujer"
+	},{
+		"months": 54,
+		"medianDA": 17.2,
+		"medianDC": 106.2,
+		"sex": "Mujer"
+	},{
+		"months": 55,
+		"medianDA": 17.3,
+		"medianDC": 106.7,
+		"sex": "Mujer"
+	},{
+		"months": 56,
+		"medianDA": 17.5,
+		"medianDC": 107.3,
+		"sex": "Mujer"
+	},{
+		"months": 57,
+		"medianDA": 17.7,
+		"medianDC": 107.8,
+		"sex": "Mujer"
+	},{
+		"months": 58,
+		"medianDA": 17.9,
+		"medianDC": 108.4,
+		"sex": "Mujer"
+	},{
+		"months": 59,
+		"medianDA": 18.0,
+		"medianDC": 108.9,
+		"sex": "Mujer"
+	},{
+		"months": 60,
+		"medianDA": 18.2,
+		"medianDC": 109.4,
+		"sex": "Mujer"
+	},{
+		"months": 61,
+		"medianDA": 18.3,
+		"medianDC": 109.6,
+		"sex": "Mujer"
+	},{
+		"months": 62,
+		"medianDA": 18.4,
+		"medianDC": 110.1,
+		"sex": "Mujer"
+	},{
+		"months": 63,
+		"medianDA": 18.6,
+		"medianDC": 110.6,
+		"sex": "Mujer"
+	},{
+		"months": 64,
+		"medianDA": 18.8,
+		"medianDC": 111.2,
+		"sex": "Mujer"
+	},{
+		"months": 65,
+		"medianDA": 19.0,
+		"medianDC": 111.7,
+		"sex": "Mujer"
+	},{
+		"months": 66,
+		"medianDA": 19.1,
+		"medianDC": 112.2,
+		"sex": "Mujer"
+	},{
+		"months": 67,
+		"medianDA": 19.3,
+		"medianDC": 112.7,
+		"sex": "Mujer"
+	},{
+		"months": 68,
+		"medianDA": 19.5,
+		"medianDC": 113.2,
+		"sex": "Mujer"
+	},{
+		"months": 69,
+		"medianDA": 19.6,
+		"medianDC": 113.7,
+		"sex": "Mujer"
+	},{
+		"months": 70,
+		"medianDA": 19.8,
+		"medianDC": 114.2,
+		"sex": "Mujer"
+	},{
+		"months": 71,
+		"medianDA": 20.0,
+		"medianDC": 114.6,
+		"sex": "Mujer"
+	},{
+		"months": 72,
+		"medianDA": 20.2,
+		"medianDC": 115.1,
+		"sex": "Mujer"
+	},{
+		"months": 73,
+		"medianDA": 20.3,
+		"medianDC": 115.6,
+		"sex": "Mujer"
+	},{
+		"months": 74,
+		"medianDA": 20.5,
+		"medianDC": 116.1,
+		"sex": "Mujer"
+	},{
+		"months": 75,
+		"medianDA": 20.7,
+		"medianDC": 116.6,
+		"sex": "Mujer"
+	},{
+		"months": 76,
+		"medianDA": 20.9,
+		"medianDC": 117.0,
+		"sex": "Mujer"
+	},{
+		"months": 77,
+		"medianDA": 21.0,
+		"medianDC": 117.5,
+		"sex": "Mujer"
+	},{
+		"months": 78,
+		"medianDA": 21.2,
+		"medianDC": 118.0,
+		"sex": "Mujer"
+	},{
+		"months": 79,
+		"medianDA": 21.4,
+		"medianDC": 118.4,
+		"sex": "Mujer"
+	},{
+		"months": 80,
+		"medianDA": 21.6,
+		"medianDC": 118.9,
+		"sex": "Mujer"
+	},{
+		"months": 81,
+		"medianDA": 21.8,
+		"medianDC": 119.4,
+		"sex": "Mujer"
+	},{
+		"months": 82,
+		"medianDA": 22.0,
+		"medianDC": 119.9,
+		"sex": "Mujer"
+	},{
+		"months": 83,
+		"medianDA": 22.2,
+		"medianDC": 120.3,
+		"sex": "Mujer"
+	},{
+		"months": 84,
+		"medianDA": 22.4,
+		"medianDC": 120.8,
+		"sex": "Mujer"
+	},{
+		"months": 85,
+		"medianDA": 22.6,
+		"medianDC": 121.3,
+		"sex": "Mujer"
+	},{
+		"months": 86,
+		"medianDA": 22.8,
+		"medianDC": 121.8,
+		"sex": "Mujer"
+	},{
+		"months": 87,
+		"medianDA": 23.0,
+		"medianDC": 122.2,
+		"sex": "Mujer"
+	},{
+		"months": 88,
+		"medianDA": 23.2,
+		"medianDC": 122.7,
+		"sex": "Mujer"
+	},{
+		"months": 89,
+		"medianDA": 23.4,
+		"medianDC": 123.2,
+		"sex": "Mujer"
+	},{
+		"months": 90,
+		"medianDA": 23.6,
+		"medianDC": 123.7,
+		"sex": "Mujer"
+	},{
+		"months": 91,
+		"medianDA": 23.9,
+		"medianDC": 124.1,
+		"sex": "Mujer"
+	},{
+		"months": 92,
+		"medianDA": 24.1,
+		"medianDC": 124.6,
+		"sex": "Mujer"
+	},{
+		"months": 93,
+		"medianDA": 24.3,
+		"medianDC": 125.1,
+		"sex": "Mujer"
+	},{
+		"months": 94,
+		"medianDA": 24.5,
+		"medianDC": 125.6,
+		"sex": "Mujer"
+	},{
+		"months": 95,
+		"medianDA": 24.8,
+		"medianDC": 126.1,
+		"sex": "Mujer"
+	},{
+		"months": 96,
+		"medianDA": 25.0,
+		"medianDC": 126.6,
+		"sex": "Mujer"
+	},{
+		"months": 97,
+		"medianDA": 25.3,
+		"medianDC": 127.0,
+		"sex": "Mujer"
+	},{
+		"months": 98,
+		"medianDA": 25.5,
+		"medianDC": 127.5,
+		"sex": "Mujer"
+	},{
+		"months": 99,
+		"medianDA": 25.8,
+		"medianDC": 128.0,
+		"sex": "Mujer"
+	},{
+		"months": 100,
+		"medianDA": 26.0,
+		"medianDC": 128.5,
+		"sex": "Mujer"
+	},{
+		"months": 101,
+		"medianDA": 26.3,
+		"medianDC": 129.0,
+		"sex": "Mujer"
+	},{
+		"months": 102,
+		"medianDA": 26.6,
+		"medianDC": 129.5,
+		"sex": "Mujer"
+	},{
+		"months": 103,
+		"medianDA": 26.8,
+		"medianDC": 130.0,
+		"sex": "Mujer"
+	},{
+		"months": 104,
+		"medianDA": 27.1,
+		"medianDC": 130.5,
+		"sex": "Mujer"
+	},{
+		"months": 105,
+		"medianDA": 27.4,
+		"medianDC": 131.0,
+		"sex": "Mujer"
+	},{
+		"months": 106,
+		"medianDA": 27.6,
+		"medianDC": 131.5,
+		"sex": "Mujer"
+	},{
+		"months": 107,
+		"medianDA": 27.9,
+		"medianDC": 132.0,
+		"sex": "Mujer"
+	},{
+		"months": 108,
+		"medianDA": 28.2,
+		"medianDC": 132.5,
+		"sex": "Mujer"
+	},{
+		"months": 109,
+		"medianDA": 28.5,
+		"medianDC": 133.0,
+		"sex": "Mujer"
+	},{
+		"months": 110,
+		"medianDA": 28.8,
+		"medianDC": 133.5,
+		"sex": "Mujer"
+	},{
+		"months": 111,
+		"medianDA": 29.1,
+		"medianDC": 134.0,
+		"sex": "Mujer"
+	},{
+		"months": 112,
+		"medianDA": 29.4,
+		"medianDC": 134.5,
+		"sex": "Mujer"
+	},{
+		"months": 113,
+		"medianDA": 29.7,
+		"medianDC": 135.0,
+		"sex": "Mujer"
+	},{
+		"months": 114,
+		"medianDA": 30.0,
+		"medianDC": 135.5,
+		"sex": "Mujer"
+	},{
+		"months": 115,
+		"medianDA": 30.3,
+		"medianDC": 136.1,
+		"sex": "Mujer"
+	},{
+		"months": 116,
+		"medianDA": 30.6,
+		"medianDC": 136.6,
+		"sex": "Mujer"
+	},{
+		"months": 117,
+		"medianDA": 30.9,
+		"medianDC": 137.1,
+		"sex": "Mujer"
+	},{
+		"months": 118,
+		"medianDA": 31.2,
+		"medianDC": 137.6,
+		"sex": "Mujer"
+	},{
+		"months": 119,
+		"medianDA": 31.5,
+		"medianDC": 138.1,
+		"sex": "Mujer"
+	},{
+		"months": 120,
+		"medianDA": 31.9,
+		"medianDC": 138.6,
+		"sex": "Mujer"
+	}
+>>>>>>> rama_3
 ]

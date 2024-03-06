@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [{
 		"months": 0,
 		"sd_iz_3": 2.1,
@@ -1209,4 +1210,1217 @@
 		"sd_de_3": 56.4,
 		"sex": "Hombre"
 	}
+=======
+[{
+		"months": 0,
+		"sd_iz_3": 2.1,
+		"sd_iz_2": 2.5,
+		"sd_iz_1": 2.9,
+		"median": 3.3,
+		"sd_de_1": 3.9,
+		"sd_de_2": 4.4,
+		"sd_de_3": 5.0,
+		"sex": "Hombre"
+	},{
+		"months": 1,
+		"sd_iz_3": 2.9,
+		"sd_iz_2": 3.4,
+		"sd_iz_1": 3.9,
+		"median": 4.5,
+		"sd_de_1": 5.1,
+		"sd_de_2": 5.8,
+		"sd_de_3": 6.6,
+		"sex": "Hombre"
+	},{
+		"months": 2,
+		"sd_iz_3": 3.8,
+		"sd_iz_2": 4.3,
+		"sd_iz_1": 4.9,
+		"median": 5.6,
+		"sd_de_1": 6.3,
+		"sd_de_2": 7.1,
+		"sd_de_3": 8.0,
+		"sex": "Hombre"
+	},{
+		"months": 3,
+		"sd_iz_3": 4.4,
+		"sd_iz_2": 5.0,
+		"sd_iz_1": 5.7,
+		"median": 6.4,
+		"sd_de_1": 7.2,
+		"sd_de_2": 8.0,
+		"sd_de_3": 9.0,
+		"sex": "Hombre"
+	},{
+		"months": 4,
+		"sd_iz_3": 4.9,
+		"sd_iz_2": 5.6,
+		"sd_iz_1": 6.2,
+		"median": 7.0,
+		"sd_de_1": 7.8,
+		"sd_de_2": 8.7,
+		"sd_de_3": 9.7,
+		"sex": "Hombre"
+	},{
+		"months": 5,
+		"sd_iz_3": 5.3,
+		"sd_iz_2": 6.0,
+		"sd_iz_1": 6.7,
+		"median": 7.5,
+		"sd_de_1": 8.4,
+		"sd_de_2": 9.3,
+		"sd_de_3": 10.4,
+		"sex": "Hombre"
+	},{
+		"months": 6,
+		"sd_iz_3": 5.7,
+		"sd_iz_2": 6.4,
+		"sd_iz_1": 7.1,
+		"median": 7.9,
+		"sd_de_1": 8.8,
+		"sd_de_2": 9.8,
+		"sd_de_3": 10.9,
+		"sex": "Hombre"
+	},{
+		"months": 7,
+		"sd_iz_3": 5.9,
+		"sd_iz_2": 6.7,
+		"sd_iz_1": 7.4,
+		"median": 8.3,
+		"sd_de_1": 9.2,
+		"sd_de_2": 10.3,
+		"sd_de_3": 11.4,
+		"sex": "Hombre"
+	},{
+		"months": 8,
+		"sd_iz_3": 6.2,
+		"sd_iz_2": 6.9,
+		"sd_iz_1": 7.7,
+		"median": 8.6,
+		"sd_de_1": 9.6,
+		"sd_de_2": 10.7,
+		"sd_de_3": 11.9,
+		"sex": "Hombre"
+	},{
+		"months": 9,
+		"sd_iz_3": 6.4,
+		"sd_iz_2": 7.1,
+		"sd_iz_1": 8.0,
+		"median": 8.9,
+		"sd_de_1": 9.9,
+		"sd_de_2": 11.0,
+		"sd_de_3": 12.3,
+		"sex": "Hombre"
+	},{
+		"months": 10,
+		"sd_iz_3": 6.6,
+		"sd_iz_2": 7.4,
+		"sd_iz_1": 8.2,
+		"median": 9.2,
+		"sd_de_1": 10.2,
+		"sd_de_2": 11.4,
+		"sd_de_3": 12.7,
+		"sex": "Hombre"
+	},{
+		"months": 11,
+		"sd_iz_3": 6.8,
+		"sd_iz_2": 7.6,
+		"sd_iz_1": 8.4,
+		"median": 9.4,
+		"sd_de_1": 10.5,
+		"sd_de_2": 11.7,
+		"sd_de_3": 13.0,
+		"sex": "Hombre"
+	},{
+		"months": 12,
+		"sd_iz_3": 6.9,
+		"sd_iz_2": 7.7,
+		"sd_iz_1": 8.6,
+		"median": 9.6,
+		"sd_de_1": 10.8,
+		"sd_de_2": 12.0,
+		"sd_de_3": 13.3,
+		"sex": "Hombre"
+	},{
+		"months": 13,
+		"sd_iz_3": 7.1,
+		"sd_iz_2": 7.9,
+		"sd_iz_1": 8.8,
+		"median": 9.9,
+		"sd_de_1": 11.0,
+		"sd_de_2": 12.3,
+		"sd_de_3": 13.7,
+		"sex": "Hombre"
+	},{
+		"months": 14,
+		"sd_iz_3": 7.2,
+		"sd_iz_2": 8.1,
+		"sd_iz_1": 9.0,
+		"median": 10.1,
+		"sd_de_1": 11.3,
+		"sd_de_2": 12.6,
+		"sd_de_3": 14.0,
+		"sex": "Hombre"
+	},{
+		"months": 15,
+		"sd_iz_3": 7.4,
+		"sd_iz_2": 8.3,
+		"sd_iz_1": 9.2,
+		"median": 10.3,
+		"sd_de_1": 11.5,
+		"sd_de_2": 12.8,
+		"sd_de_3": 14.3,
+		"sex": "Hombre"
+	},{
+		"months": 16,
+		"sd_iz_3": 7.5,
+		"sd_iz_2": 8.4,
+		"sd_iz_1": 9.4,
+		"median": 10.5,
+		"sd_de_1": 11.7,
+		"sd_de_2": 13.1,
+		"sd_de_3": 14.6,
+		"sex": "Hombre"
+	},{
+		"months": 17,
+		"sd_iz_3": 7.7,
+		"sd_iz_2": 8.6,
+		"sd_iz_1": 9.6,
+		"median": 10.7,
+		"sd_de_1": 12.0,
+		"sd_de_2": 13.4,
+		"sd_de_3": 14.9,
+		"sex": "Hombre"
+	},{
+		"months": 18,
+		"sd_iz_3": 7.8,
+		"sd_iz_2": 8.8,
+		"sd_iz_1": 9.8,
+		"median": 10.9,
+		"sd_de_1": 12.2,
+		"sd_de_2": 13.7,
+		"sd_de_3": 15.3,
+		"sex": "Hombre"
+	},{
+		"months": 19,
+		"sd_iz_3": 8.0,
+		"sd_iz_2": 8.9,
+		"sd_iz_1": 10.0,
+		"median": 11.1,
+		"sd_de_1": 12.5,
+		"sd_de_2": 13.9,
+		"sd_de_3": 15.6,
+		"sex": "Hombre"
+	},{
+		"months": 20,
+		"sd_iz_3": 8.1,
+		"sd_iz_2": 9.1,
+		"sd_iz_1": 10.1,
+		"median": 11.3,
+		"sd_de_1": 12.7,
+		"sd_de_2": 14.2,
+		"sd_de_3": 15.9,
+		"sex": "Hombre"
+	},{
+		"months": 21,
+		"sd_iz_3": 8.2,
+		"sd_iz_2": 9.2,
+		"sd_iz_1": 10.3,
+		"median": 11.5,
+		"sd_de_1": 12.9,
+		"sd_de_2": 14.5,
+		"sd_de_3": 16.2,
+		"sex": "Hombre"
+	},{
+		"months": 22,
+		"sd_iz_3": 8.4,
+		"sd_iz_2": 9.4,
+		"sd_iz_1": 10.5,
+		"median": 11.8,
+		"sd_de_1": 13.2,
+		"sd_de_2": 14.7,
+		"sd_de_3": 16.5,
+		"sex": "Hombre"
+	},{
+		"months": 23,
+		"sd_iz_3": 8.5,
+		"sd_iz_2": 9.5,
+		"sd_iz_1": 10.7,
+		"median": 12.0,
+		"sd_de_1": 13.4,
+		"sd_de_2": 15.0,
+		"sd_de_3": 16.8,
+		"sex": "Hombre"
+	},{
+		"months": 24,
+		"sd_iz_3": 8.6,
+		"sd_iz_2": 9.7,
+		"sd_iz_1": 10.8,
+		"median": 12.2,
+		"sd_de_1": 13.6,
+		"sd_de_2": 15.3,
+		"sd_de_3": 17.1,
+		"sex": "Hombre"
+	},{
+		"months": 25,
+		"sd_iz_3": 8.8,
+		"sd_iz_2": 9.8,
+		"sd_iz_1": 11.0,
+		"median": 12.4,
+		"sd_de_1": 13.9,
+		"sd_de_2": 15.5,
+		"sd_de_3": 17.5,
+		"sex": "Hombre"
+	},{
+		"months": 26,
+		"sd_iz_3": 8.9,
+		"sd_iz_2": 10.0,
+		"sd_iz_1": 11.2,
+		"median": 12.5,
+		"sd_de_1": 14.1,
+		"sd_de_2": 15.8,
+		"sd_de_3": 17.8,
+		"sex": "Hombre"
+	},{
+		"months": 27,
+		"sd_iz_3": 9.0,
+		"sd_iz_2": 10.1,
+		"sd_iz_1": 11.3,
+		"median": 12.7,
+		"sd_de_1": 14.3,
+		"sd_de_2": 16.1,
+		"sd_de_3": 18.1,
+		"sex": "Hombre"
+	},{
+		"months": 28,
+		"sd_iz_3": 9.1,
+		"sd_iz_2": 10.2,
+		"sd_iz_1": 11.5,
+		"median": 12.9,
+		"sd_de_1": 14.5,
+		"sd_de_2": 16.3,
+		"sd_de_3": 18.4,
+		"sex": "Hombre"
+	},{
+		"months": 29,
+		"sd_iz_3": 9.2,
+		"sd_iz_2": 10.4,
+		"sd_iz_1": 11.7,
+		"median": 13.1,
+		"sd_de_1": 14.8,
+		"sd_de_2": 16.6,
+		"sd_de_3": 18.7,
+		"sex": "Hombre"
+	},{
+		"months": 30,
+		"sd_iz_3": 9.4,
+		"sd_iz_2": 10.5,
+		"sd_iz_1": 11.8,
+		"median": 13.3,
+		"sd_de_1": 15.0,
+		"sd_de_2": 16.9,
+		"sd_de_3": 19.0,
+		"sex": "Hombre"
+	},{
+		"months": 31,
+		"sd_iz_3": 9.5,
+		"sd_iz_2": 10.7,
+		"sd_iz_1": 12.0,
+		"median": 13.5,
+		"sd_de_1": 15.2,
+		"sd_de_2": 17.1,
+		"sd_de_3": 19.3,
+		"sex": "Hombre"
+	},{
+		"months": 32,
+		"sd_iz_3": 9.6,
+		"sd_iz_2": 10.8,
+		"sd_iz_1": 12.1,
+		"median": 13.7,
+		"sd_de_1": 15.4,
+		"sd_de_2": 17.4,
+		"sd_de_3": 19.6,
+		"sex": "Hombre"
+	},{
+		"months": 33,
+		"sd_iz_3": 9.7,
+		"sd_iz_2": 10.9,
+		"sd_iz_1": 12.3,
+		"median": 13.8,
+		"sd_de_1": 15.6,
+		"sd_de_2": 17.6,
+		"sd_de_3": 19.9,
+		"sex": "Hombre"
+	},{
+		"months": 34,
+		"sd_iz_3": 9.8,
+		"sd_iz_2": 11.0,
+		"sd_iz_1": 12.4,
+		"median": 14.0,
+		"sd_de_1": 15.8,
+		"sd_de_2": 17.8,
+		"sd_de_3": 20.2,
+		"sex": "Hombre"
+	},{
+		"months": 35,
+		"sd_iz_3": 9.9,
+		"sd_iz_2": 11.2,
+		"sd_iz_1": 12.6,
+		"median": 14.2,
+		"sd_de_1": 16.0,
+		"sd_de_2": 18.1,
+		"sd_de_3": 20.4,
+		"sex": "Hombre"
+	},{
+		"months": 36,
+		"sd_iz_3": 10.0,
+		"sd_iz_2": 11.3,
+		"sd_iz_1": 12.7,
+		"median": 14.3,
+		"sd_de_1": 16.2,
+		"sd_de_2": 18.3,
+		"sd_de_3": 20.7,
+		"sex": "Hombre"
+	},{
+		"months": 37,
+		"sd_iz_3": 10.1,
+		"sd_iz_2": 11.4,
+		"sd_iz_1": 12.9,
+		"median": 14.5,
+		"sd_de_1": 16.4,
+		"sd_de_2": 18.6,
+		"sd_de_3": 21.0,
+		"sex": "Hombre"
+	},{
+		"months": 38,
+		"sd_iz_3": 10.2,
+		"sd_iz_2": 11.5,
+		"sd_iz_1": 13.0,
+		"median": 14.7,
+		"sd_de_1": 16.6,
+		"sd_de_2": 18.8,
+		"sd_de_3": 21.3,
+		"sex": "Hombre"
+	},{
+		"months": 39,
+		"sd_iz_3": 10.3,
+		"sd_iz_2": 11.6,
+		"sd_iz_1": 13.1,
+		"median": 14.8,
+		"sd_de_1": 16.8,
+		"sd_de_2": 19.0,
+		"sd_de_3": 21.6,
+		"sex": "Hombre"
+	},{
+		"months": 40,
+		"sd_iz_3": 10.4,
+		"sd_iz_2": 11.8,
+		"sd_iz_1": 13.3,
+		"median": 15.0,
+		"sd_de_1": 17.0,
+		"sd_de_2": 19.3,
+		"sd_de_3": 21.9,
+		"sex": "Hombre"
+	},{
+		"months": 41,
+		"sd_iz_3": 10.5,
+		"sd_iz_2": 11.9,
+		"sd_iz_1": 13.4,
+		"median": 15.2,
+		"sd_de_1": 17.2,
+		"sd_de_2": 19.5,
+		"sd_de_3": 22.1,
+		"sex": "Hombre"
+	},{
+		"months": 42,
+		"sd_iz_3": 10.6,
+		"sd_iz_2": 12.0,
+		"sd_iz_1": 13.6,
+		"median": 15.3,
+		"sd_de_1": 17.4,
+		"sd_de_2": 19.7,
+		"sd_de_3": 22.4,
+		"sex": "Hombre"
+	},{
+		"months": 43,
+		"sd_iz_3": 10.7,
+		"sd_iz_2": 12.1,
+		"sd_iz_1": 13.7,
+		"median": 15.5,
+		"sd_de_1": 17.6,
+		"sd_de_2": 20.0,
+		"sd_de_3": 22.7,
+		"sex": "Hombre"
+	},{
+		"months": 44,
+		"sd_iz_3": 10.8,
+		"sd_iz_2": 12.2,
+		"sd_iz_1": 13.8,
+		"median": 15.7,
+		"sd_de_1": 17.8,
+		"sd_de_2": 20.2,
+		"sd_de_3": 23.0,
+		"sex": "Hombre"
+	},{
+		"months": 45,
+		"sd_iz_3": 10.9,
+		"sd_iz_2": 12.4,
+		"sd_iz_1": 14.0,
+		"median": 15.8,
+		"sd_de_1": 18.0,
+		"sd_de_2": 20.5,
+		"sd_de_3": 23.3,
+		"sex": "Hombre"
+	},{
+		"months": 46,
+		"sd_iz_3": 11.0,
+		"sd_iz_2": 12.5,
+		"sd_iz_1": 14.1,
+		"median": 16.0,
+		"sd_de_1": 18.2,
+		"sd_de_2": 20.7,
+		"sd_de_3": 23.6,
+		"sex": "Hombre"
+	},{
+		"months": 47,
+		"sd_iz_3": 11.1,
+		"sd_iz_2": 12.6,
+		"sd_iz_1": 14.3,
+		"median": 16.2,
+		"sd_de_1": 18.4,
+		"sd_de_2": 20.9,
+		"sd_de_3": 23.9,
+		"sex": "Hombre"
+	},{
+		"months": 48,
+		"sd_iz_3": 11.2,
+		"sd_iz_2": 12.7,
+		"sd_iz_1": 14.4,
+		"median": 16.3,
+		"sd_de_1": 18.6,
+		"sd_de_2": 21.2,
+		"sd_de_3": 24.2,
+		"sex": "Hombre"
+	},{
+		"months": 49,
+		"sd_iz_3": 11.3,
+		"sd_iz_2": 12.8,
+		"sd_iz_1": 14.5,
+		"median": 16.5,
+		"sd_de_1": 18.8,
+		"sd_de_2": 21.4,
+		"sd_de_3": 24.5,
+		"sex": "Hombre"
+	},{
+		"months": 50,
+		"sd_iz_3": 11.4,
+		"sd_iz_2": 12.9,
+		"sd_iz_1": 14.7,
+		"median": 16.7,
+		"sd_de_1": 19.0,
+		"sd_de_2": 21.7,
+		"sd_de_3": 24.8,
+		"sex": "Hombre"
+	},{
+		"months": 51,
+		"sd_iz_3": 11.5,
+		"sd_iz_2": 13.1,
+		"sd_iz_1": 14.8,
+		"median": 16.8,
+		"sd_de_1": 19.2,
+		"sd_de_2": 21.9,
+		"sd_de_3": 25.1,
+		"sex": "Hombre"
+	},{
+		"months": 52,
+		"sd_iz_3": 11.6,
+		"sd_iz_2": 13.2,
+		"sd_iz_1": 15.0,
+		"median": 17.0,
+		"sd_de_1": 19.4,
+		"sd_de_2": 22.2,
+		"sd_de_3": 25.4,
+		"sex": "Hombre"
+	},{
+		"months": 53,
+		"sd_iz_3": 11.7,
+		"sd_iz_2": 13.3,
+		"sd_iz_1": 15.1,
+		"median": 17.2,
+		"sd_de_1": 19.6,
+		"sd_de_2": 22.4,
+		"sd_de_3": 25.7,
+		"sex": "Hombre"
+	},{
+		"months": 54,
+		"sd_iz_3": 11.8,
+		"sd_iz_2": 13.4,
+		"sd_iz_1": 15.2,
+		"median": 17.3,
+		"sd_de_1": 19.8,
+		"sd_de_2": 22.7,
+		"sd_de_3": 26.0,
+		"sex": "Hombre"
+	},{
+		"months": 55,
+		"sd_iz_3": 11.9,
+		"sd_iz_2": 13.5,
+		"sd_iz_1": 15.4,
+		"median": 17.5,
+		"sd_de_1": 20.0,
+		"sd_de_2": 22.9,
+		"sd_de_3": 26.3,
+		"sex": "Hombre"
+	},{
+		"months": 56,
+		"sd_iz_3": 12.0,
+		"sd_iz_2": 13.6,
+		"sd_iz_1": 15.5,
+		"median": 17.7,
+		"sd_de_1": 20.2,
+		"sd_de_2": 23.2,
+		"sd_de_3": 26.6,
+		"sex": "Hombre"
+	},{
+		"months": 57,
+		"sd_iz_3": 12.1,
+		"sd_iz_2": 13.7,
+		"sd_iz_1": 15.6,
+		"median": 17.8,
+		"sd_de_1": 20.4,
+		"sd_de_2": 23.4,
+		"sd_de_3": 26.9,
+		"sex": "Hombre"
+	},{
+		"months": 58,
+		"sd_iz_3": 12.2,
+		"sd_iz_2": 13.8,
+		"sd_iz_1": 15.8,
+		"median": 18.0,
+		"sd_de_1": 20.6,
+		"sd_de_2": 23.7,
+		"sd_de_3": 27.2,
+		"sex": "Hombre"
+	},{
+		"months": 59,
+		"sd_iz_3": 12.3,
+		"sd_iz_2": 14.0,
+		"sd_iz_1": 15.9,
+		"median": 18.2,
+		"sd_de_1": 20.8,
+		"sd_de_2": 23.9,
+		"sd_de_3": 27.6,
+		"sex": "Hombre"
+	},{
+		"months": 60,
+		"sd_iz_3": 12.4,
+		"sd_iz_2": 14.1,
+		"sd_iz_1": 16.0,
+		"median": 18.3,
+		"sd_de_1": 21.0,
+		"sd_de_2": 24.2,
+		"sd_de_3": 27.9,
+		"sex": "Hombre"
+	},{
+		"months": 61,
+		"sd_iz_3": 12.7,
+		"sd_iz_2": 14.4,
+		"sd_iz_1": 16.3,
+		"median": 18.5,
+		"sd_de_1": 21.1,
+		"sd_de_2": 24.2,
+		"sd_de_3": 27.8,
+		"sex": "Hombre"
+	},{
+		"months": 62,
+		"sd_iz_3": 12.8,
+		"sd_iz_2": 14.5,
+		"sd_iz_1": 16.4,
+		"median": 18.7,
+		"sd_de_1": 21.3,
+		"sd_de_2": 24.4,
+		"sd_de_3": 28.1,
+		"sex": "Hombre"
+	},{
+		"months": 63,
+		"sd_iz_3": 13.0,
+		"sd_iz_2": 14.6,
+		"sd_iz_1": 16.6,
+		"median": 18.9,
+		"sd_de_1": 21.5,
+		"sd_de_2": 24.7,
+		"sd_de_3": 28.4,
+		"sex": "Hombre"
+	},{
+		"months": 64,
+		"sd_iz_3": 13.1,
+		"sd_iz_2": 14.8,
+		"sd_iz_1": 16.7,
+		"median": 19.0,
+		"sd_de_1": 21.7,
+		"sd_de_2": 24.9,
+		"sd_de_3": 28.8,
+		"sex": "Hombre"
+	},{
+		"months": 65,
+		"sd_iz_3": 13.2,
+		"sd_iz_2": 14.9,
+		"sd_iz_1": 16.9,
+		"median": 19.2,
+		"sd_de_1": 22.0,
+		"sd_de_2": 25.2,
+		"sd_de_3": 29.1,
+		"sex": "Hombre"
+	},{
+		"months": 66,
+		"sd_iz_3": 13.3,
+		"sd_iz_2": 15.0,
+		"sd_iz_1": 17.0,
+		"median": 19.4,
+		"sd_de_1": 22.2,
+		"sd_de_2": 25.5,
+		"sd_de_3": 29.4,
+		"sex": "Hombre"
+	},{
+		"months": 67,
+		"sd_iz_3": 13.4,
+		"sd_iz_2": 15.2,
+		"sd_iz_1": 17.2,
+		"median": 19.6,
+		"sd_de_1": 22.4,
+		"sd_de_2": 25.7,
+		"sd_de_3": 29.8,
+		"sex": "Hombre"
+	},{
+		"months": 68,
+		"sd_iz_3": 13.6,
+		"sd_iz_2": 15.3,
+		"sd_iz_1": 17.4,
+		"median": 19.8,
+		"sd_de_1": 22.6,
+		"sd_de_2": 26.0,
+		"sd_de_3": 30.1,
+		"sex": "Hombre"
+	},{
+		"months": 69,
+		"sd_iz_3": 13.7,
+		"sd_iz_2": 15.4,
+		"sd_iz_1": 17.5,
+		"median": 19.9,
+		"sd_de_1": 22.8,
+		"sd_de_2": 26.3,
+		"sd_de_3": 30.4,
+		"sex": "Hombre"
+	},{
+		"months": 70,
+		"sd_iz_3": 13.8,
+		"sd_iz_2": 15.6,
+		"sd_iz_1": 17.7,
+		"median": 20.1,
+		"sd_de_1": 23.1,
+		"sd_de_2": 26.6,
+		"sd_de_3": 30.8,
+		"sex": "Hombre"
+	},{
+		"months": 71,
+		"sd_iz_3": 13.9,
+		"sd_iz_2": 15.7,
+		"sd_iz_1": 17.8,
+		"median": 20.3,
+		"sd_de_1": 23.3,
+		"sd_de_2": 26.8,
+		"sd_de_3": 31.2,
+		"sex": "Hombre"
+	},{
+		"months": 72,
+		"sd_iz_3": 14.1,
+		"sd_iz_2": 15.9,
+		"sd_iz_1": 18.0,
+		"median": 20.5,
+		"sd_de_1": 23.5,
+		"sd_de_2": 27.1,
+		"sd_de_3": 31.5,
+		"sex": "Hombre"
+	},{
+		"months": 73,
+		"sd_iz_3": 14.2,
+		"sd_iz_2": 16.0,
+		"sd_iz_1": 18.2,
+		"median": 20.7,
+		"sd_de_1": 23.7,
+		"sd_de_2": 27.4,
+		"sd_de_3": 31.9,
+		"sex": "Hombre"
+	},{
+		"months": 74,
+		"sd_iz_3": 14.3,
+		"sd_iz_2": 16.2,
+		"sd_iz_1": 18.3,
+		"median": 20.9,
+		"sd_de_1": 24.0,
+		"sd_de_2": 27.7,
+		"sd_de_3": 32.2,
+		"sex": "Hombre"
+	},{
+		"months": 75,
+		"sd_iz_3": 14.5,
+		"sd_iz_2": 16.3,
+		"sd_iz_1": 18.5,
+		"median": 21.1,
+		"sd_de_1": 24.2,
+		"sd_de_2": 28.0,
+		"sd_de_3": 32.6,
+		"sex": "Hombre"
+	},{
+		"months": 76,
+		"sd_iz_3": 14.6,
+		"sd_iz_2": 16.5,
+		"sd_iz_1": 18.7,
+		"median": 21.3,
+		"sd_de_1": 24.4,
+		"sd_de_2": 28.3,
+		"sd_de_3": 33.0,
+		"sex": "Hombre"
+	},{
+		"months": 77,
+		"sd_iz_3": 14.7,
+		"sd_iz_2": 16.6,
+		"sd_iz_1": 18.8,
+		"median": 21.5,
+		"sd_de_1": 24.7,
+		"sd_de_2": 28.6,
+		"sd_de_3": 33.3,
+		"sex": "Hombre"
+	},{
+		"months": 78,
+		"sd_iz_3": 14.9,
+		"sd_iz_2": 16.8,
+		"sd_iz_1": 19.0,
+		"median": 21.7,
+		"sd_de_1": 24.9,
+		"sd_de_2": 28.9,
+		"sd_de_3": 33.7,
+		"sex": "Hombre"
+	},{
+		"months": 79,
+		"sd_iz_3": 15.0,
+		"sd_iz_2": 16.9,
+		"sd_iz_1": 19.2,
+		"median": 21.9,
+		"sd_de_1": 25.2,
+		"sd_de_2": 29.2,
+		"sd_de_3": 34.1,
+		"sex": "Hombre"
+	},{
+		"months": 80,
+		"sd_iz_3": 15.1,
+		"sd_iz_2": 17.1,
+		"sd_iz_1": 19.3,
+		"median": 22.1,
+		"sd_de_1": 25.4,
+		"sd_de_2": 29.5,
+		"sd_de_3": 34.5,
+		"sex": "Hombre"
+	},{
+		"months": 81,
+		"sd_iz_3": 15.3,
+		"sd_iz_2": 17.2,
+		"sd_iz_1": 19.5,
+		"median": 22.3,
+		"sd_de_1": 25.6,
+		"sd_de_2": 29.8,
+		"sd_de_3": 34.9,
+		"sex": "Hombre"
+	},{
+		"months": 82,
+		"sd_iz_3": 15.4,
+		"sd_iz_2": 17.4,
+		"sd_iz_1": 19.7,
+		"median": 22.5,
+		"sd_de_1": 25.9,
+		"sd_de_2": 30.1,
+		"sd_de_3": 35.3,
+		"sex": "Hombre"
+	},{
+		"months": 83,
+		"sd_iz_3": 15.5,
+		"sd_iz_2": 17.5,
+		"sd_iz_1": 19.9,
+		"median": 22.7,
+		"sd_de_1": 26.1,
+		"sd_de_2": 30.4,
+		"sd_de_3": 35.7,
+		"sex": "Hombre"
+	},{
+		"months": 84,
+		"sd_iz_3": 15.7,
+		"sd_iz_2": 17.7,
+		"sd_iz_1": 20.0,
+		"median": 22.9,
+		"sd_de_1": 26.4,
+		"sd_de_2": 30.7,
+		"sd_de_3": 36.1,
+		"sex": "Hombre"
+	},{
+		"months": 85,
+		"sd_iz_3": 15.8,
+		"sd_iz_2": 17.8,
+		"sd_iz_1": 20.2,
+		"median": 23.1,
+		"sd_de_1": 26.6,
+		"sd_de_2": 31.0,
+		"sd_de_3": 36.5,
+		"sex": "Hombre"
+	},{
+		"months": 86,
+		"sd_iz_3": 15.9,
+		"sd_iz_2": 18.0,
+		"sd_iz_1": 20.4,
+		"median": 23.3,
+		"sd_de_1": 26.9,
+		"sd_de_2": 31.3,
+		"sd_de_3": 36.9,
+		"sex": "Hombre"
+	},{
+		"months": 87,
+		"sd_iz_3": 16.1,
+		"sd_iz_2": 18.1,
+		"sd_iz_1": 20.6,
+		"median": 23.5,
+		"sd_de_1": 27.1,
+		"sd_de_2": 31.7,
+		"sd_de_3": 37.4,
+		"sex": "Hombre"
+	},{
+		"months": 88,
+		"sd_iz_3": 16.2,
+		"sd_iz_2": 18.3,
+		"sd_iz_1": 20.7,
+		"median": 23.7,
+		"sd_de_1": 27.4,
+		"sd_de_2": 32.0,
+		"sd_de_3": 37.8,
+		"sex": "Hombre"
+	},{
+		"months": 89,
+		"sd_iz_3": 16.3,
+		"sd_iz_2": 18.4,
+		"sd_iz_1": 20.9,
+		"median": 23.9,
+		"sd_de_1": 27.7,
+		"sd_de_2": 32.3,
+		"sd_de_3": 38.2,
+		"sex": "Hombre"
+	},{
+		"months": 90,
+		"sd_iz_3": 16.5,
+		"sd_iz_2": 18.6,
+		"sd_iz_1": 21.1,
+		"median": 24.1,
+		"sd_de_1": 27.9,
+		"sd_de_2": 32.6,
+		"sd_de_3": 38.7,
+		"sex": "Hombre"
+	},{
+		"months": 91,
+		"sd_iz_3": 16.6,
+		"sd_iz_2": 18.7,
+		"sd_iz_1": 21.3,
+		"median": 24.3,
+		"sd_de_1": 28.2,
+		"sd_de_2": 33.0,
+		"sd_de_3": 39.1,
+		"sex": "Hombre"
+	},{
+		"months": 92,
+		"sd_iz_3": 16.7,
+		"sd_iz_2": 18.9,
+		"sd_iz_1": 21.4,
+		"median": 24.6,
+		"sd_de_1": 28.4,
+		"sd_de_2": 33.3,
+		"sd_de_3": 39.6,
+		"sex": "Hombre"
+	},{
+		"months": 93,
+		"sd_iz_3": 16.9,
+		"sd_iz_2": 19.0,
+		"sd_iz_1": 21.6,
+		"median": 24.8,
+		"sd_de_1": 28.7,
+		"sd_de_2": 33.7,
+		"sd_de_3": 40.1,
+		"sex": "Hombre"
+	},{
+		"months": 94,
+		"sd_iz_3": 17.0,
+		"sd_iz_2": 19.2,
+		"sd_iz_1": 21.8,
+		"median": 25.0,
+		"sd_de_1": 29.0,
+		"sd_de_2": 34.0,
+		"sd_de_3": 40.5,
+		"sex": "Hombre"
+	},{
+		"months": 95,
+		"sd_iz_3": 17.1,
+		"sd_iz_2": 19.3,
+		"sd_iz_1": 22.0,
+		"median": 25.2,
+		"sd_de_1": 29.2,
+		"sd_de_2": 34.4,
+		"sd_de_3": 41.0,
+		"sex": "Hombre"
+	},{
+		"months": 96,
+		"sd_iz_3": 17.3,
+		"sd_iz_2": 19.5,
+		"sd_iz_1": 22.1,
+		"median": 25.4,
+		"sd_de_1": 29.5,
+		"sd_de_2": 34.7,
+		"sd_de_3": 41.5,
+		"sex": "Hombre"
+	},{
+		"months": 97,
+		"sd_iz_3": 17.4,
+		"sd_iz_2": 19.6,
+		"sd_iz_1": 22.3,
+		"median": 25.6,
+		"sd_de_1": 29.8,
+		"sd_de_2": 35.1,
+		"sd_de_3": 42.0,
+		"sex": "Hombre"
+	},{
+		"months": 98,
+		"sd_iz_3": 17.5,
+		"sd_iz_2": 19.8,
+		"sd_iz_1": 22.5,
+		"median": 25.9,
+		"sd_de_1": 30.1,
+		"sd_de_2": 35.5,
+		"sd_de_3": 42.5,
+		"sex": "Hombre"
+	},{
+		"months": 99,
+		"sd_iz_3": 17.7,
+		"sd_iz_2": 19.9,
+		"sd_iz_1": 22.7,
+		"median": 26.1,
+		"sd_de_1": 30.3,
+		"sd_de_2": 35.8,
+		"sd_de_3": 43.1,
+		"sex": "Hombre"
+	},{
+		"months": 100,
+		"sd_iz_3": 17.8,
+		"sd_iz_2": 20.1,
+		"sd_iz_1": 22.9,
+		"median": 26.3,
+		"sd_de_1": 30.6,
+		"sd_de_2": 36.2,
+		"sd_de_3": 43.6,
+		"sex": "Hombre"
+	},{
+		"months": 101,
+		"sd_iz_3": 17.9,
+		"sd_iz_2": 20.2,
+		"sd_iz_1": 23.0,
+		"median": 26.5,
+		"sd_de_1": 30.9,
+		"sd_de_2": 36.6,
+		"sd_de_3": 44.1,
+		"sex": "Hombre"
+	},{
+		"months": 102,
+		"sd_iz_3": 18.1,
+		"sd_iz_2": 20.4,
+		"sd_iz_1": 23.2,
+		"median": 26.7,
+		"sd_de_1": 31.2,
+		"sd_de_2": 37.0,
+		"sd_de_3": 44.7,
+		"sex": "Hombre"
+	},{
+		"months": 103,
+		"sd_iz_3": 18.2,
+		"sd_iz_2": 20.5,
+		"sd_iz_1": 23.4,
+		"median": 27.0,
+		"sd_de_1": 31.5,
+		"sd_de_2": 37.4,
+		"sd_de_3": 45.2,
+		"sex": "Hombre"
+	},{
+		"months": 104,
+		"sd_iz_3": 18.3,
+		"sd_iz_2": 20.7,
+		"sd_iz_1": 23.6,
+		"median": 27.2,
+		"sd_de_1": 31.8,
+		"sd_de_2": 37.8,
+		"sd_de_3": 45.8,
+		"sex": "Hombre"
+	},{
+		"months": 105,
+		"sd_iz_3": 18.4,
+		"sd_iz_2": 20.8,
+		"sd_iz_1": 23.8,
+		"median": 27.4,
+		"sd_de_1": 32.1,
+		"sd_de_2": 38.2,
+		"sd_de_3": 46.4,
+		"sex": "Hombre"
+	},{
+		"months": 106,
+		"sd_iz_3": 18.6,
+		"sd_iz_2": 21.0,
+		"sd_iz_1": 23.9,
+		"median": 27.6,
+		"sd_de_1": 32.4,
+		"sd_de_2": 38.6,
+		"sd_de_3": 47.0,
+		"sex": "Hombre"
+	},{
+		"months": 107,
+		"sd_iz_3": 18.7,
+		"sd_iz_2": 21.1,
+		"sd_iz_1": 24.1,
+		"median": 27.9,
+		"sd_de_1": 32.7,
+		"sd_de_2": 39.0,
+		"sd_de_3": 47.6,
+		"sex": "Hombre"
+	},{
+		"months": 108,
+		"sd_iz_3": 18.8,
+		"sd_iz_2": 21.3,
+		"sd_iz_1": 24.3,
+		"median": 28.1,
+		"sd_de_1": 33.0,
+		"sd_de_2": 39.4,
+		"sd_de_3": 48.2,
+		"sex": "Hombre"
+	},{
+		"months": 109,
+		"sd_iz_3": 18.9,
+		"sd_iz_2": 21.4,
+		"sd_iz_1": 24.5,
+		"median": 28.3,
+		"sd_de_1": 33.3,
+		"sd_de_2": 39.9,
+		"sd_de_3": 48.8,
+		"sex": "Hombre"
+	},{
+		"months": 110,
+		"sd_iz_3": 19.1,
+		"sd_iz_2": 21.6,
+		"sd_iz_1": 24.7,
+		"median": 28.6,
+		"sd_de_1": 33.6,
+		"sd_de_2": 40.3,
+		"sd_de_3": 49.5,
+		"sex": "Hombre"
+	},{
+		"months": 111,
+		"sd_iz_3": 19.2,
+		"sd_iz_2": 21.7,
+		"sd_iz_1": 24.9,
+		"median": 28.8,
+		"sd_de_1": 33.9,
+		"sd_de_2": 40.7,
+		"sd_de_3": 50.1,
+		"sex": "Hombre"
+	},{
+		"months": 112,
+		"sd_iz_3": 19.3,
+		"sd_iz_2": 21.9,
+		"sd_iz_1": 25.1,
+		"median": 29.1,
+		"sd_de_1": 34.3,
+		"sd_de_2": 41.2,
+		"sd_de_3": 50.8,
+		"sex": "Hombre"
+	},{
+		"months": 113,
+		"sd_iz_3": 19.5,
+		"sd_iz_2": 22.1,
+		"sd_iz_1": 25.3,
+		"median": 29.3,
+		"sd_de_1": 34.6,
+		"sd_de_2": 41.7,
+		"sd_de_3": 51.5,
+		"sex": "Hombre"
+	},{
+		"months": 114,
+		"sd_iz_3": 19.6,
+		"sd_iz_2": 22.2,
+		"sd_iz_1": 25.5,
+		"median": 29.6,
+		"sd_de_1": 34.9,
+		"sd_de_2": 42.1,
+		"sd_de_3": 52.1,
+		"sex": "Hombre"
+	},{
+		"months": 115,
+		"sd_iz_3": 19.7,
+		"sd_iz_2": 22.4,
+		"sd_iz_1": 25.7,
+		"median": 29.8,
+		"sd_de_1": 35.3,
+		"sd_de_2": 42.6,
+		"sd_de_3": 52.8,
+		"sex": "Hombre"
+	},{
+		"months": 116,
+		"sd_iz_3": 19.9,
+		"sd_iz_2": 22.5,
+		"sd_iz_1": 25.9,
+		"median": 30.1,
+		"sd_de_1": 35.6,
+		"sd_de_2": 43.1,
+		"sd_de_3": 53.5,
+		"sex": "Hombre"
+	},{
+		"months": 117,
+		"sd_iz_3": 20.0,
+		"sd_iz_2": 22.7,
+		"sd_iz_1": 26.1,
+		"median": 30.4,
+		"sd_de_1": 36.0,
+		"sd_de_2": 43.5,
+		"sd_de_3": 54.2,
+		"sex": "Hombre"
+	},{
+		"months": 118,
+		"sd_iz_3": 20.1,
+		"sd_iz_2": 22.9,
+		"sd_iz_1": 26.3,
+		"median": 30.6,
+		"sd_de_1": 36.3,
+		"sd_de_2": 44.0,
+		"sd_de_3": 55.0,
+		"sex": "Hombre"
+	},{
+		"months": 119,
+		"sd_iz_3": 20.3,
+		"sd_iz_2": 23.0,
+		"sd_iz_1": 26.5,
+		"median": 30.9,
+		"sd_de_1": 36.7,
+		"sd_de_2": 44.5,
+		"sd_de_3": 55.7,
+		"sex": "Hombre"
+	},{
+		"months": 120,
+		"sd_iz_3": 20.4,
+		"sd_iz_2": 23.2,
+		"sd_iz_1": 26.7,
+		"median": 31.2,
+		"sd_de_1": 37.0,
+		"sd_de_2": 45.0,
+		"sd_de_3": 56.4,
+		"sex": "Hombre"
+	}
+>>>>>>> rama_3
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [{
 		"months": 1,
 		"sd_iz_2": 48.6,
@@ -287,4 +288,295 @@
 		"sd_de_2": 95.4,
 		"sex": "Hombre"
 	}
+=======
+[{
+		"months": 1,
+		"sd_iz_2": 48.6,
+		"sd_iz_1": 50.6,
+		"median": 52.6,
+		"sd_de_1": 54.7,
+		"sd_de_2": 56.8,
+		"sex": "Hombre"
+	},{
+		"months": 2,
+		"sd_iz_2": 50.8,
+		"sd_iz_1": 52.9,
+		"median": 55.1,
+		"sd_de_1": 57.3,
+		"sd_de_2": 59.6,
+		"sex": "Hombre"
+	},{
+		"months": 3,
+		"sd_iz_2": 53.0,
+		"sd_iz_1": 55.2,
+		"median": 57.5,
+		"sd_de_1": 59.8,
+		"sd_de_2": 62.2,
+		"sex": "Hombre"
+	},{
+		"months": 4,
+		"sd_iz_2": 55.0,
+		"sd_iz_1": 57.3,
+		"median": 59.7,
+		"sd_de_1": 62.1,
+		"sd_de_2": 64.6,
+		"sex": "Hombre"
+	},{
+		"months": 5,
+		"sd_iz_2": 57.1,
+		"sd_iz_1": 59.5,
+		"median": 61.9,
+		"sd_de_1": 64.4,
+		"sd_de_2": 67.0,
+		"sex": "Hombre"
+	},{
+		"months": 6,
+		"sd_iz_2": 58.8,
+		"sd_iz_1": 61.3,
+		"median": 63.9,
+		"sd_de_1": 66.6,
+		"sd_de_2": 69.3,
+		"sex": "Hombre"
+	},{
+		"months": 7,
+		"sd_iz_2": 60.4,
+		"sd_iz_1": 63.0,
+		"median": 65.7,
+		"sd_de_1": 68.4,
+		"sd_de_2": 71.2,
+		"sex": "Hombre"
+	},{
+		"months": 8,
+		"sd_iz_2": 61.9,
+		"sd_iz_1": 64.6,
+		"median": 67.3,
+		"sd_de_1": 70.1,
+		"sd_de_2": 72.9,
+		"sex": "Hombre"
+	},{
+		"months": 9,
+		"sd_iz_2": 63.3,
+		"sd_iz_1": 66.0,
+		"median": 68.8,
+		"sd_de_1": 71.7,
+		"sd_de_2": 74.6,
+		"sex": "Hombre"
+	},{
+		"months": 10,
+		"sd_iz_2": 64.3,
+		"sd_iz_1": 67.2,
+		"median": 70.1,
+		"sd_de_1": 73.1,
+		"sd_de_2": 76.1,
+		"sex": "Hombre"
+	},{
+		"months": 11,
+		"sd_iz_2": 65.4,
+		"sd_iz_1": 68.3,
+		"median": 71.3,
+		"sd_de_1": 74.3,
+		"sd_de_2": 77.4,
+		"sex": "Hombre"
+	},{
+		"months": 12,
+		"sd_iz_2": 66.5,
+		"sd_iz_1": 69.4,
+		"median": 72.4,
+		"sd_de_1": 75.5,
+		"sd_de_2": 78.6,
+		"sex": "Hombre"
+	},{
+		"months": 13,
+		"sd_iz_2": 67.4,
+		"sd_iz_1": 70.4,
+		"median": 73.4,
+		"sd_de_1": 76.5,
+		"sd_de_2": 79.7,
+		"sex": "Hombre"
+	},{
+		"months": 14,
+		"sd_iz_2": 68.1,
+		"sd_iz_1": 71.1,
+		"median": 74.3,
+		"sd_de_1": 77.5,
+		"sd_de_2": 80.8,
+		"sex": "Hombre"
+	},{
+		"months": 15,
+		"sd_iz_2": 68.9,
+		"sd_iz_1": 72.0,
+		"median": 75.2,
+		"sd_de_1": 78.5,
+		"sd_de_2": 81.8,
+		"sex": "Hombre"
+	},{
+		"months": 16,
+		"sd_iz_2": 69.7,
+		"sd_iz_1": 72.9,
+		"median": 76.1,
+		"sd_de_1": 79.4,
+		"sd_de_2": 82.8,
+		"sex": "Hombre"
+	},{
+		"months": 17,
+		"sd_iz_2": 70.4,
+		"sd_iz_1": 73.6,
+		"median": 76.9,
+		"sd_de_1": 80.2,
+		"sd_de_2": 83.7,
+		"sex": "Hombre"
+	},{
+		"months": 18,
+		"sd_iz_2": 71.2,
+		"sd_iz_1": 74.4,
+		"median": 77.7,
+		"sd_de_1": 81.1,
+		"sd_de_2": 84.5,
+		"sex": "Hombre"
+	},{
+		"months": 19,
+		"sd_iz_2": 71.7,
+		"sd_iz_1": 75.0,
+		"median": 78.4,
+		"sd_de_1": 81.9,
+		"sd_de_2": 85.5,
+		"sex": "Hombre"
+	},{
+		"months": 20,
+		"sd_iz_2": 72.3,
+		"sd_iz_1": 75.7,
+		"median": 79.1,
+		"sd_de_1": 82.6,
+		"sd_de_2": 86.2,
+		"sex": "Hombre"
+	},{
+		"months": 21,
+		"sd_iz_2": 72.8,
+		"sd_iz_1": 76.2,
+		"median": 79.7,
+		"sd_de_1": 83.3,
+		"sd_de_2": 86.9,
+		"sex": "Hombre"
+	},{
+		"months": 22,
+		"sd_iz_2": 73.4,
+		"sd_iz_1": 76.8,
+		"median": 80.3,
+		"sd_de_1": 83.9,
+		"sd_de_2": 87.5,
+		"sex": "Hombre"
+	},{
+		"months": 23,
+		"sd_iz_2": 73.9,
+		"sd_iz_1": 77.4,
+		"median": 80.9,
+		"sd_de_1": 84.5,
+		"sd_de_2": 88.2,
+		"sex": "Hombre"
+	},{
+		"months": 24,
+		"sd_iz_2": 74.5,
+		"sd_iz_1": 78.0,
+		"median": 81.5,
+		"sd_de_1": 85.1,
+		"sd_de_2": 88.8,
+		"sex": "Hombre"
+	},{
+		"months": 25,
+		"sd_iz_2": 75.0,
+		"sd_iz_1": 78.5,
+		"median": 82.1,
+		"sd_de_1": 85.8,
+		"sd_de_2": 89.5,
+		"sex": "Hombre"
+	},{
+		"months": 26,
+		"sd_iz_2": 75.3,
+		"sd_iz_1": 78.9,
+		"median": 82.6,
+		"sd_de_1": 86.4,
+		"sd_de_2": 90.2,
+		"sex": "Hombre"
+	},{
+		"months": 27,
+		"sd_iz_2": 75.8,
+		"sd_iz_1": 79.4,
+		"median": 83.1,
+		"sd_de_1": 86.9,
+		"sd_de_2": 90.8,
+		"sex": "Hombre"
+	},{
+		"months": 28,
+		"sd_iz_2": 76.3,
+		"sd_iz_1": 79.9,
+		"median": 83.6,
+		"sd_de_1": 87.4,
+		"sd_de_2": 91.3,
+		"sex": "Hombre"
+	},{
+		"months": 29,
+		"sd_iz_2": 76.7,
+		"sd_iz_1": 80.4,
+		"median": 84.1,
+		"sd_de_1": 87.9,
+		"sd_de_2": 91.8,
+		"sex": "Hombre"
+	},{
+		"months": 30,
+		"sd_iz_2": 77.1,
+		"sd_iz_1": 80.7,
+		"median": 84.5,
+		"sd_de_1": 88.4,
+		"sd_de_2": 92.3,
+		"sex": "Hombre"
+	},{
+		"months": 31,
+		"sd_iz_2": 77.5,
+		"sd_iz_1": 81.2,
+		"median": 85.0,
+		"sd_de_1": 88.9,
+		"sd_de_2": 92.8,
+		"sex": "Hombre"
+	},{
+		"months": 32,
+		"sd_iz_2": 77.9,
+		"sd_iz_1": 81.6,
+		"median": 85.4,
+		"sd_de_1": 89.3,
+		"sd_de_2": 93.3,
+		"sex": "Hombre"
+	},{
+		"months": 33,
+		"sd_iz_2": 78.3,
+		"sd_iz_1": 82.1,
+		"median": 85.9,
+		"sd_de_1": 89.8,
+		"sd_de_2": 93.8,
+		"sex": "Hombre"
+	},{
+		"months": 34,
+		"sd_iz_2": 78.7,
+		"sd_iz_1": 82.5,
+		"median": 86.3,
+		"sd_de_1": 90.2,
+		"sd_de_2": 94.2,
+		"sex": "Hombre"
+	},{
+		"months": 35,
+		"sd_iz_2": 79.0,
+		"sd_iz_1": 82.9,
+		"median": 86.8,
+		"sd_de_1": 90.8,
+		"sd_de_2": 95.0,
+		"sex": "Hombre"
+	},{
+		"months": 36,
+		"sd_iz_2": 79.4,
+		"sd_iz_1": 83.2,
+		"median": 87.2,
+		"sd_de_1": 91.3,
+		"sd_de_2": 95.4,
+		"sex": "Hombre"
+	}
+>>>>>>> rama_3
 ]

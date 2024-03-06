@@ -6,8 +6,13 @@ import 'package:inicio_1/app/controllers/Velocidad_Controller.dart';
 
 class FormularioVelocidad extends StatelessWidget {
   const FormularioVelocidad({
+<<<<<<< HEAD
     Key? key,
   }) : super(key: key);
+=======
+    super.key,
+  });
+>>>>>>> rama_3
 
   @override
   Widget build(BuildContext context) {
@@ -80,11 +85,19 @@ class FormSimple extends StatelessWidget {
   final String textoOculto;
   final String etiquetaTexto;
   const FormSimple({
+<<<<<<< HEAD
     Key? key,
     required this.controlador,
     required this.textoOculto,
     required this.etiquetaTexto,
   }) : super(key: key);
+=======
+    super.key,
+    required this.controlador,
+    required this.textoOculto,
+    required this.etiquetaTexto,
+  });
+>>>>>>> rama_3
 
   @override
   Widget build(BuildContext context) {

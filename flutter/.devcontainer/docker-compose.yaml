@@ -11,9 +11,16 @@ services:
      #image: mysql:5.7
     volumes:
       - ../app:/app
+<<<<<<< HEAD
     ports:
        - 5037:5037
        - 8080:8080
+=======
+    # ports:
+    #    - 5037:5037
+    #    - 8080:8080
+    network_mode: host # Dar internet
+>>>>>>> rama_3
     # environment:
     #   DISABLE_AUTH: true 
     #   ROOT: true
@@ -32,4 +39,9 @@ services:
 volumes:
   app: 
     external: true
+<<<<<<< HEAD
+=======
+  key: 
+    external: true
+>>>>>>> rama_3
   

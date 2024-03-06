@@ -7,8 +7,13 @@ import '../../../controllers/Velocidad_Controller.dart';
 
 class VelocidadRadio extends StatelessWidget {
   const VelocidadRadio({
+<<<<<<< HEAD
     Key? key,
   }) : super(key: key);
+=======
+    super.key,
+  });
+>>>>>>> rama_3
 
   @override
   Widget build(BuildContext context) {

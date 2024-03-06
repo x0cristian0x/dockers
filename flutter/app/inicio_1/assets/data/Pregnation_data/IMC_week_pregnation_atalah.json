@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [{
 		"weeks": 10,
 		"bajopeso": 20.3,
@@ -230,4 +231,238 @@
 		"maximo": 45.0,
 		"autor": "Atalah 1997"
 	}
+=======
+[{
+		"weeks": 10,
+		"bajopeso": 20.3,
+		"sobrepeso": 25.3,
+		"obesidad": 30.3,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 11,
+		"bajopeso": 20.4,
+		"sobrepeso": 25.4,
+		"obesidad": 30.4,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 12,
+		"bajopeso": 20.5,
+		"sobrepeso": 25.5,
+		"obesidad": 30.4,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 13,
+		"bajopeso": 20.7,
+		"sobrepeso": 25.7,
+		"obesidad": 30.5,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 14,
+		"bajopeso": 20.8,
+		"sobrepeso": 25.8,
+		"obesidad": 30.6,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 15,
+		"bajopeso": 20.9,
+		"sobrepeso": 25.9,
+		"obesidad": 30.7,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 16,
+		"bajopeso": 21.1,
+		"sobrepeso": 26.0,
+		"obesidad": 30.8,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 17,
+		"bajopeso": 21.2,
+		"sobrepeso": 26.1,
+		"obesidad": 30.9,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 18,
+		"bajopeso": 21.3,
+		"sobrepeso": 26.2,
+		"obesidad": 31.0,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 19,
+		"bajopeso": 21.5,
+		"sobrepeso": 26.3,
+		"obesidad": 31.0,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 20,
+		"bajopeso": 21.6,
+		"sobrepeso": 26.4,
+		"obesidad": 31.1,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 21,
+		"bajopeso": 21.8,
+		"sobrepeso": 26.5,
+		"obesidad": 31.2,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 22,
+		"bajopeso": 21.9,
+		"sobrepeso": 26.7,
+		"obesidad": 31.3,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 23,
+		"bajopeso": 22.1,
+		"sobrepeso": 26.9,
+		"obesidad": 31.4,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 24,
+		"bajopeso": 22.3,
+		"sobrepeso": 27.0,
+		"obesidad": 31.6,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 25,
+		"bajopeso": 22.5,
+		"sobrepeso": 27.1,
+		"obesidad": 31.7,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 26,
+		"bajopeso": 22.7,
+		"sobrepeso": 27.3,
+		"obesidad": 31.8,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 27,
+		"bajopeso": 22.8,
+		"sobrepeso": 27.4,
+		"obesidad": 31.9,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 28,
+		"bajopeso": 23.0,
+		"sobrepeso": 27.6,
+		"obesidad": 32.0,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 29,
+		"bajopeso": 23.2,
+		"sobrepeso": 27.7,
+		"obesidad": 32.1,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 30,
+		"bajopeso": 23.4,
+		"sobrepeso": 27.9,
+		"obesidad": 32.2,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 31,
+		"bajopeso": 23.5,
+		"sobrepeso": 28.0,
+		"obesidad": 32.3,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 32,
+		"bajopeso": 23.7,
+		"sobrepeso": 28.1,
+		"obesidad": 32.4,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 33,
+		"bajopeso": 23.9,
+		"sobrepeso": 28.2,
+		"obesidad": 32.5,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 34,
+		"bajopeso": 24.0,
+		"sobrepeso": 28.4,
+		"obesidad": 32.6,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 35,
+		"bajopeso": 24.2,
+		"sobrepeso": 28.5,
+		"obesidad": 32.7,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 36,
+		"bajopeso": 24.3,
+		"sobrepeso": 28.6,
+		"obesidad": 32.8,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 37,
+		"bajopeso": 24.5,
+		"sobrepeso": 28.8,
+		"obesidad": 32.9,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 38,
+		"bajopeso": 24.6,
+		"sobrepeso": 28.9,
+		"obesidad": 33.0,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 39,
+		"bajopeso": 24.8,
+		"sobrepeso": 29.0,
+		"obesidad": 33.1,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 40,
+		"bajopeso": 25.0,
+		"sobrepeso": 29.2,
+		"obesidad": 33.2,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 41,
+		"bajopeso": 25.1,
+		"sobrepeso": 29.3,
+		"obesidad": 33.3,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	},{
+		"weeks": 42,
+		"bajopeso": 25.1,
+		"sobrepeso": 29.3,
+		"obesidad": 33.3,
+		"maximo": 45.0,
+		"autor": "Atalah 1997"
+	}
+>>>>>>> rama_3
 ]
