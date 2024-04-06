@@ -9,10 +9,22 @@ services:
     tty: true # -it interactively
     ipc: host
      #image: mysql:5.7
+    # stdin_open: true
+    # cpus: 0.5
     volumes:
       - ../app:/app
+      - ../../pytorch/app/pytorch_cv_projects/dataset:/app/dataset
     
-     #restart: always
+               
+    network_mode: host # Dar internet
+    # environment:
+    #   - DISPLAY=$DISPLAY
+    #   - XSOCK=/tmp/.X11-unix
+    #   - XAUTH=/tmp/.docker.xauth
+    # extra_hosts:
+    #   - "video:192.168.1.7"
+
+    #restart: always
     # ports:
     #   - 8787:8787
     # environment:
@@ -33,4 +45,5 @@ services:
 volumes:
   app: 
     external: true
+
   

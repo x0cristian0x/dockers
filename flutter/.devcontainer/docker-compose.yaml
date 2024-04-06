@@ -5,22 +5,22 @@ services:
     build:
       context: . # donde esta el dockerfile
       dockerfile: Dockerfile
+      
     container_name: mi-flutter
     tty: true # -it interactively
     ipc: host
      #image: mysql:5.7
     volumes:
       - ../app:/app
-<<<<<<< HEAD
-    ports:
-       - 5037:5037
-       - 8080:8080
-=======
+  
     # ports:
     #    - 5037:5037
     #    - 8080:8080
     network_mode: host # Dar internet
->>>>>>> rama_3
+    # extra_hosts:
+    #   - "video:192.168.1.7"
+
+
     # environment:
     #   DISABLE_AUTH: true 
     #   ROOT: true
@@ -39,9 +39,5 @@ services:
 volumes:
   app: 
     external: true
-<<<<<<< HEAD
-=======
-  key: 
-    external: true
->>>>>>> rama_3
+
   

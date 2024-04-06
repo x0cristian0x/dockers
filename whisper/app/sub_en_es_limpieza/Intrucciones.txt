@@ -1,0 +1,14 @@
+# help
+python ffmpeg-split.py -h
+
+
+# cada segundo. ejm: cada 10 segundos
+python ffmpeg-split.py -f video.mp4 -s 10
+
+
+# dividir en trozos: en 10 trozos
+python ffmpeg-split.py -f video.mp4 -c 10
+
+
+# github
+https://github.com/c0decracker/video-splitter

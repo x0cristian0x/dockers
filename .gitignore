@@ -1,18 +1,15 @@
-<<<<<<< HEAD
-pytorch/app/pytorch_luca/
-pytorch/app/pytorch_zero/pytorch-deep-learning
-bash_git.sh
-Tensorflow/app/zero_tensorflow/tensorflow-deep-learning
-=======
 bash_git.sh
 
 
 pytorch/app/pytorch_luca/
+
 pytorch/app/pytorch_zero/pytorch-deep-learning/
 pytorch/app/pytorch_zero/my_dataset/
 pytorch/app/pytorch_zero/models/
 pytorch/app/pytorch_zero/data/
-pytorch/app/Computer_Vision_Projects/dataset/
+
+pytorch/app/pytorch_cv_projects/dataset/
+/pytorch/app/pytorch_cv_projects/computer-vision-projects-with-pytorch/
 
 
 
@@ -24,4 +21,4 @@ flutter/app/clave/
 flutter/app/inicio_1/clave/
 flutter/app/inicio_new/clave/
 flutter/app/prueba_1/
->>>>>>> rama_3
+flutter/app/google_mlkit/

@@ -1,2 +1,0 @@
-docker run -v /mnt/Disco_d/dockers/whisper-large/app/:/app --gpus all -it devcontainer-whisper-v2 bash
-sudo kill -9 PID
